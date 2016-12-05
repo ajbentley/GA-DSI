@@ -1,0 +1,295 @@
+2016-11-16 11:26:22,850 DEBUG:Created newDeck, handOne, handTwo and tableau instances
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 50 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 48 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 46 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 44 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 42 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 40 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 38 left in deck
+2016-11-16 11:26:22,851 DEBUG:Added to hands, 36 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 34 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 32 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 30 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 28 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 26 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 24 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 22 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 20 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 18 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 16 left in deck
+2016-11-16 11:26:22,852 DEBUG:Added to hands, 14 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 12 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 10 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 8 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 6 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 4 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 2 left in deck
+2016-11-16 11:26:22,853 DEBUG:Added to hands, 0 left in deck
+2016-11-16 11:26:22,853 DEBUG:Drew two cards: 4 of Diamonds and 2 of Hearts
+2016-11-16 11:26:22,853 INFO:player 1 wins round and adds 2 cards to their hand of 25
+2016-11-16 11:26:22,853 DEBUG:player 1 has 27 cards
+2016-11-16 11:26:22,853 DEBUG:Drew two cards: 5 of Diamonds and 2 of Clubs
+2016-11-16 11:26:22,853 INFO:player 1 wins round and adds 2 cards to their hand of 26
+2016-11-16 11:26:22,853 DEBUG:player 1 has 28 cards
+2016-11-16 11:26:22,853 DEBUG:Drew two cards: 10 of Diamonds and Ace of Hearts
+2016-11-16 11:26:22,853 INFO:player 2 wins round and adds 2 cards to their hand of 23
+2016-11-16 11:26:22,853 DEBUG:player 2 has 25 cards
+2016-11-16 11:26:22,853 DEBUG:Drew two cards: 8 of Diamonds and 4 of Spades
+2016-11-16 11:26:22,853 INFO:player 1 wins round and adds 2 cards to their hand of 26
+2016-11-16 11:26:22,854 DEBUG:player 1 has 28 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: Jack of Hearts and 7 of Hearts
+2016-11-16 11:26:22,854 INFO:player 1 wins round and adds 2 cards to their hand of 27
+2016-11-16 11:26:22,854 DEBUG:player 1 has 29 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: Queen of Clubs and 5 of Spades
+2016-11-16 11:26:22,854 INFO:player 1 wins round and adds 2 cards to their hand of 28
+2016-11-16 11:26:22,854 DEBUG:player 1 has 30 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: 3 of Clubs and Queen of Hearts
+2016-11-16 11:26:22,854 INFO:player 2 wins round and adds 2 cards to their hand of 21
+2016-11-16 11:26:22,854 DEBUG:player 2 has 23 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: 9 of Hearts and Jack of Diamonds
+2016-11-16 11:26:22,854 INFO:player 2 wins round and adds 2 cards to their hand of 22
+2016-11-16 11:26:22,854 DEBUG:player 2 has 24 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: 7 of Diamonds and 9 of Spades
+2016-11-16 11:26:22,854 INFO:player 2 wins round and adds 2 cards to their hand of 23
+2016-11-16 11:26:22,854 DEBUG:player 2 has 25 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: 6 of Hearts and 8 of Spades
+2016-11-16 11:26:22,854 INFO:player 2 wins round and adds 2 cards to their hand of 24
+2016-11-16 11:26:22,854 DEBUG:player 2 has 26 cards
+2016-11-16 11:26:22,854 DEBUG:Drew two cards: 3 of Diamonds and 10 of Spades
+2016-11-16 11:26:22,854 INFO:player 2 wins round and adds 2 cards to their hand of 25
+2016-11-16 11:26:22,855 DEBUG:player 2 has 27 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: Queen of Diamonds and 7 of Spades
+2016-11-16 11:26:22,855 INFO:player 1 wins round and adds 2 cards to their hand of 24
+2016-11-16 11:26:22,855 DEBUG:player 1 has 26 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: 10 of Hearts and 8 of Hearts
+2016-11-16 11:26:22,855 INFO:player 1 wins round and adds 2 cards to their hand of 25
+2016-11-16 11:26:22,855 DEBUG:player 1 has 27 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: King of Clubs and 6 of Spades
+2016-11-16 11:26:22,855 INFO:player 1 wins round and adds 2 cards to their hand of 26
+2016-11-16 11:26:22,855 DEBUG:player 1 has 28 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: King of Diamonds and Ace of Diamonds
+2016-11-16 11:26:22,855 INFO:player 2 wins round and adds 2 cards to their hand of 23
+2016-11-16 11:26:22,855 DEBUG:player 2 has 25 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: 6 of Diamonds and Ace of Spades
+2016-11-16 11:26:22,855 INFO:player 2 wins round and adds 2 cards to their hand of 24
+2016-11-16 11:26:22,855 DEBUG:player 2 has 26 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: 4 of Hearts and King of Hearts
+2016-11-16 11:26:22,855 INFO:player 2 wins round and adds 2 cards to their hand of 25
+2016-11-16 11:26:22,855 DEBUG:player 2 has 27 cards
+2016-11-16 11:26:22,855 DEBUG:Drew two cards: 10 of Clubs and Jack of Clubs
+2016-11-16 11:26:22,855 INFO:player 2 wins round and adds 2 cards to their hand of 26
+2016-11-16 11:26:22,856 DEBUG:player 2 has 28 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: King of Spades and Queen of Spades
+2016-11-16 11:26:22,856 INFO:player 1 wins round and adds 2 cards to their hand of 23
+2016-11-16 11:26:22,856 DEBUG:player 1 has 25 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: 8 of Clubs and Jack of Spades
+2016-11-16 11:26:22,856 INFO:player 2 wins round and adds 2 cards to their hand of 26
+2016-11-16 11:26:22,856 DEBUG:player 2 has 28 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: Ace of Clubs and 3 of Hearts
+2016-11-16 11:26:22,856 INFO:player 2 wins round and adds 2 cards to their hand of 27
+2016-11-16 11:26:22,856 DEBUG:player 2 has 29 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: 2 of Spades and 9 of Clubs
+2016-11-16 11:26:22,856 INFO:player 2 wins round and adds 2 cards to their hand of 28
+2016-11-16 11:26:22,856 DEBUG:player 2 has 30 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: 6 of Clubs and 9 of Diamonds
+2016-11-16 11:26:22,856 INFO:player 2 wins round and adds 2 cards to their hand of 29
+2016-11-16 11:26:22,856 DEBUG:player 2 has 31 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: 2 of Diamonds and 5 of Hearts
+2016-11-16 11:26:22,856 INFO:player 2 wins round and adds 2 cards to their hand of 30
+2016-11-16 11:26:22,856 DEBUG:player 2 has 32 cards
+2016-11-16 11:26:22,856 DEBUG:Drew two cards: 7 of Clubs and 4 of Clubs
+2016-11-16 11:26:22,856 INFO:player 1 wins round and adds 2 cards to their hand of 19
+2016-11-16 11:26:22,857 DEBUG:player 1 has 21 cards
+2016-11-16 11:26:22,857 DEBUG:Drew two cards: 3 of Spades and 5 of Clubs
+2016-11-16 11:26:22,857 INFO:player 2 wins round and adds 2 cards to their hand of 30
+2016-11-16 11:26:22,857 DEBUG:player 2 has 32 cards
+2016-11-16 11:26:22,857 DEBUG:Drew two cards: 4 of Diamonds and 10 of Diamonds
+2016-11-16 11:26:22,857 INFO:player 2 wins round and adds 2 cards to their hand of 31
+2016-11-16 11:26:22,857 DEBUG:player 2 has 33 cards
+2016-11-16 11:26:22,857 DEBUG:Drew two cards: 2 of Hearts and Ace of Hearts
+2016-11-16 11:26:22,857 INFO:player 2 wins round and adds 2 cards to their hand of 32
+2016-11-16 11:26:22,857 DEBUG:player 2 has 34 cards
+2016-11-16 11:26:22,857 DEBUG:Drew two cards: 5 of Diamonds and 3 of Clubs
+2016-11-16 11:26:22,857 INFO:player 1 wins round and adds 2 cards to their hand of 17
+2016-11-16 11:26:22,857 DEBUG:player 1 has 19 cards
+2016-11-16 11:26:22,857 DEBUG:Drew two cards: 2 of Clubs and Queen of Hearts
+2016-11-16 11:26:22,857 INFO:player 2 wins round and adds 2 cards to their hand of 32
+2016-11-16 11:26:22,857 DEBUG:player 2 has 34 cards
+2016-11-16 11:26:22,857 DEBUG:Drew two cards: 8 of Diamonds and 9 of Hearts
+2016-11-16 11:26:22,857 INFO:player 2 wins round and adds 2 cards to their hand of 33
+2016-11-16 11:26:22,857 DEBUG:player 2 has 35 cards
+2016-11-16 11:26:22,858 DEBUG:Drew two cards: 4 of Spades and Jack of Diamonds
+2016-11-16 11:26:22,858 INFO:player 2 wins round and adds 2 cards to their hand of 34
+2016-11-16 11:26:22,858 DEBUG:player 2 has 36 cards
+2016-11-16 11:26:22,858 DEBUG:Drew two cards: Jack of Hearts and 9 of Spades
+2016-11-16 11:26:22,858 INFO:player 1 wins round and adds 2 cards to their hand of 15
+2016-11-16 11:26:22,858 DEBUG:player 1 has 17 cards
+2016-11-16 11:26:22,858 DEBUG:Drew two cards: 7 of Hearts and 7 of Diamonds
+2016-11-16 11:26:22,858 INFO:War! There are 8 cards in tableau
+2016-11-16 11:26:22,858 DEBUG:Drew two cards: Queen of Diamonds and 10 of Spades
+2016-11-16 11:26:22,859 INFO:player 1 wins round and adds 10 cards to their hand of 12
+2016-11-16 11:26:22,859 DEBUG:player 1 has 22 cards
+2016-11-16 11:26:22,859 DEBUG:Drew two cards: 8 of Hearts and Ace of Diamonds
+2016-11-16 11:26:22,859 INFO:player 2 wins round and adds 2 cards to their hand of 29
+2016-11-16 11:26:22,859 DEBUG:player 2 has 31 cards
+2016-11-16 11:26:22,859 DEBUG:Drew two cards: 10 of Hearts and King of Diamonds
+2016-11-16 11:26:22,859 INFO:player 2 wins round and adds 2 cards to their hand of 30
+2016-11-16 11:26:22,859 DEBUG:player 2 has 32 cards
+2016-11-16 11:26:22,859 DEBUG:Drew two cards: 6 of Spades and 6 of Diamonds
+2016-11-16 11:26:22,859 INFO:War! There are 8 cards in tableau
+2016-11-16 11:26:22,859 DEBUG:Drew two cards: 4 of Clubs and Jack of Clubs
+2016-11-16 11:26:22,859 INFO:player 2 wins round and adds 10 cards to their hand of 27
+2016-11-16 11:26:22,860 DEBUG:player 2 has 37 cards
+2016-11-16 11:26:22,860 DEBUG:Drew two cards: 7 of Clubs and 10 of Clubs
+2016-11-16 11:26:22,860 INFO:player 2 wins round and adds 2 cards to their hand of 36
+2016-11-16 11:26:22,860 DEBUG:player 2 has 38 cards
+2016-11-16 11:26:22,860 DEBUG:Drew two cards: 3 of Clubs and Jack of Spades
+2016-11-16 11:26:22,860 INFO:player 2 wins round and adds 2 cards to their hand of 37
+2016-11-16 11:26:22,860 DEBUG:player 2 has 39 cards
+2016-11-16 11:26:22,860 DEBUG:Drew two cards: 5 of Diamonds and 8 of Clubs
+2016-11-16 11:26:22,860 INFO:player 2 wins round and adds 2 cards to their hand of 38
+2016-11-16 11:26:22,860 DEBUG:player 2 has 40 cards
+2016-11-16 11:26:22,860 DEBUG:Drew two cards: 9 of Spades and Ace of Clubs
+2016-11-16 11:26:22,861 INFO:player 2 wins round and adds 2 cards to their hand of 39
+2016-11-16 11:26:22,861 DEBUG:player 2 has 41 cards
+2016-11-16 11:26:22,861 DEBUG:Drew two cards: Jack of Hearts and 3 of Hearts
+2016-11-16 11:26:22,861 INFO:player 1 wins round and adds 2 cards to their hand of 10
+2016-11-16 11:26:22,861 DEBUG:player 1 has 12 cards
+2016-11-16 11:26:22,861 DEBUG:Drew two cards: 7 of Diamonds and 9 of Clubs
+2016-11-16 11:26:22,861 INFO:player 2 wins round and adds 2 cards to their hand of 39
+2016-11-16 11:26:22,861 DEBUG:player 2 has 41 cards
+2016-11-16 11:26:22,861 DEBUG:Drew two cards: 10 of Spades and 2 of Spades
+2016-11-16 11:26:22,861 INFO:player 1 wins round and adds 2 cards to their hand of 10
+2016-11-16 11:26:22,861 DEBUG:player 1 has 12 cards
+2016-11-16 11:26:22,861 DEBUG:Drew two cards: 3 of Diamonds and 9 of Diamonds
+2016-11-16 11:26:22,861 INFO:player 2 wins round and adds 2 cards to their hand of 39
+2016-11-16 11:26:22,862 DEBUG:player 2 has 41 cards
+2016-11-16 11:26:22,862 DEBUG:Drew two cards: 5 of Spades and 6 of Clubs
+2016-11-16 11:26:22,862 INFO:player 2 wins round and adds 2 cards to their hand of 40
+2016-11-16 11:26:22,862 DEBUG:player 2 has 42 cards
+2016-11-16 11:26:22,862 DEBUG:Drew two cards: 7 of Spades and 2 of Diamonds
+2016-11-16 11:26:22,862 INFO:player 1 wins round and adds 2 cards to their hand of 9
+2016-11-16 11:26:22,862 DEBUG:player 1 has 11 cards
+2016-11-16 11:26:22,862 DEBUG:Drew two cards: 6 of Hearts and 5 of Hearts
+2016-11-16 11:26:22,862 INFO:player 1 wins round and adds 2 cards to their hand of 10
+2016-11-16 11:26:22,862 DEBUG:player 1 has 12 cards
+2016-11-16 11:26:22,862 DEBUG:Drew two cards: Queen of Clubs and 5 of Clubs
+2016-11-16 11:26:22,862 INFO:player 1 wins round and adds 2 cards to their hand of 11
+2016-11-16 11:26:22,862 DEBUG:player 1 has 13 cards
+2016-11-16 11:26:22,862 DEBUG:Drew two cards: 8 of Spades and 3 of Spades
+2016-11-16 11:26:22,862 INFO:player 1 wins round and adds 2 cards to their hand of 12
+2016-11-16 11:26:22,862 DEBUG:player 1 has 14 cards
+2016-11-16 11:26:22,863 DEBUG:Drew two cards: Queen of Diamonds and 4 of Diamonds
+2016-11-16 11:26:22,863 INFO:player 1 wins round and adds 2 cards to their hand of 13
+2016-11-16 11:26:22,863 DEBUG:player 1 has 15 cards
+2016-11-16 11:26:22,863 DEBUG:Drew two cards: 7 of Hearts and 10 of Diamonds
+2016-11-16 11:26:22,863 INFO:player 2 wins round and adds 2 cards to their hand of 36
+2016-11-16 11:26:22,863 DEBUG:player 2 has 38 cards
+2016-11-16 11:26:22,863 DEBUG:Drew two cards: 3 of Hearts and Ace of Hearts
+2016-11-16 11:26:22,863 INFO:player 2 wins round and adds 2 cards to their hand of 37
+2016-11-16 11:26:22,863 DEBUG:player 2 has 39 cards
+2016-11-16 11:26:22,863 DEBUG:Drew two cards: Jack of Hearts and 2 of Hearts
+2016-11-16 11:26:22,863 INFO:player 1 wins round and adds 2 cards to their hand of 12
+2016-11-16 11:26:22,863 DEBUG:player 1 has 14 cards
+2016-11-16 11:26:22,863 DEBUG:Drew two cards: 10 of Spades and Queen of Hearts
+2016-11-16 11:26:22,863 INFO:player 2 wins round and adds 2 cards to their hand of 37
+2016-11-16 11:26:22,863 DEBUG:player 2 has 39 cards
+2016-11-16 11:26:22,863 DEBUG:Drew two cards: 2 of Spades and 2 of Clubs
+2016-11-16 11:26:22,864 INFO:War! There are 8 cards in tableau
+2016-11-16 11:26:22,864 DEBUG:Drew two cards: 6 of Hearts and 4 of Spades
+2016-11-16 11:26:22,864 INFO:player 1 wins round and adds 10 cards to their hand of 8
+2016-11-16 11:26:22,864 DEBUG:player 1 has 18 cards
+2016-11-16 11:26:22,864 DEBUG:Drew two cards: 5 of Clubs and 8 of Hearts
+2016-11-16 11:26:22,864 INFO:player 2 wins round and adds 2 cards to their hand of 33
+2016-11-16 11:26:22,864 DEBUG:player 2 has 35 cards
+2016-11-16 11:26:22,864 DEBUG:Drew two cards: Queen of Clubs and Ace of Diamonds
+2016-11-16 11:26:22,864 INFO:player 2 wins round and adds 2 cards to their hand of 34
+2016-11-16 11:26:22,864 DEBUG:player 2 has 36 cards
+2016-11-16 11:26:22,864 DEBUG:Drew two cards: 3 of Spades and 10 of Hearts
+2016-11-16 11:26:22,864 INFO:player 2 wins round and adds 2 cards to their hand of 35
+2016-11-16 11:26:22,864 DEBUG:player 2 has 37 cards
+2016-11-16 11:26:22,864 DEBUG:Drew two cards: 8 of Spades and King of Diamonds
+2016-11-16 11:26:22,864 INFO:player 2 wins round and adds 2 cards to their hand of 36
+2016-11-16 11:26:22,864 DEBUG:player 2 has 38 cards
+2016-11-16 11:26:22,865 DEBUG:Drew two cards: Queen of Diamonds and King of Hearts
+2016-11-16 11:26:22,865 INFO:player 2 wins round and adds 2 cards to their hand of 37
+2016-11-16 11:26:22,865 DEBUG:player 2 has 39 cards
+2016-11-16 11:26:22,865 DEBUG:Drew two cards: 4 of Diamonds and Queen of Spades
+2016-11-16 11:26:22,865 INFO:player 2 wins round and adds 2 cards to their hand of 38
+2016-11-16 11:26:22,865 DEBUG:player 2 has 40 cards
+2016-11-16 11:26:22,865 DEBUG:Drew two cards: Jack of Hearts and 6 of Spades
+2016-11-16 11:26:22,865 INFO:player 1 wins round and adds 2 cards to their hand of 11
+2016-11-16 11:26:22,865 DEBUG:player 1 has 13 cards
+2016-11-16 11:26:22,865 DEBUG:Drew two cards: 2 of Hearts and Jack of Clubs
+2016-11-16 11:26:22,865 INFO:player 2 wins round and adds 2 cards to their hand of 38
+2016-11-16 11:26:22,865 DEBUG:player 2 has 40 cards
+2016-11-16 11:26:22,865 DEBUG:Drew two cards: 5 of Hearts and King of Clubs
+2016-11-16 11:26:22,865 INFO:player 2 wins round and adds 2 cards to their hand of 39
+2016-11-16 11:26:22,865 DEBUG:player 2 has 41 cards
+2016-11-16 11:26:22,865 DEBUG:Drew two cards: 2 of Clubs and Ace of Spades
+2016-11-16 11:26:22,865 INFO:player 2 wins round and adds 2 cards to their hand of 40
+2016-11-16 11:26:22,865 DEBUG:player 2 has 42 cards
+2016-11-16 11:26:22,866 DEBUG:Drew two cards: 9 of Hearts and 4 of Hearts
+2016-11-16 11:26:22,866 INFO:player 1 wins round and adds 2 cards to their hand of 9
+2016-11-16 11:26:22,866 DEBUG:player 1 has 11 cards
+2016-11-16 11:26:22,866 DEBUG:Drew two cards: 2 of Diamonds and 4 of Clubs
+2016-11-16 11:26:22,866 INFO:player 2 wins round and adds 2 cards to their hand of 40
+2016-11-16 11:26:22,866 DEBUG:player 2 has 42 cards
+2016-11-16 11:26:22,866 DEBUG:Drew two cards: 2 of Spades and King of Spades
+2016-11-16 11:26:22,866 INFO:player 2 wins round and adds 2 cards to their hand of 41
+2016-11-16 11:26:22,866 DEBUG:player 2 has 43 cards
+2016-11-16 11:26:22,866 DEBUG:Drew two cards: 7 of Spades and 6 of Diamonds
+2016-11-16 11:26:22,866 INFO:player 1 wins round and adds 2 cards to their hand of 8
+2016-11-16 11:26:22,866 DEBUG:player 1 has 10 cards
+2016-11-16 11:26:22,866 DEBUG:Drew two cards: Jack of Diamonds and 7 of Clubs
+2016-11-16 11:26:22,866 INFO:player 1 wins round and adds 2 cards to their hand of 9
+2016-11-16 11:26:22,866 DEBUG:player 1 has 11 cards
+2016-11-16 11:26:22,866 DEBUG:Drew two cards: 6 of Hearts and 10 of Clubs
+2016-11-16 11:26:22,866 INFO:player 2 wins round and adds 2 cards to their hand of 40
+2016-11-16 11:26:22,867 DEBUG:player 2 has 42 cards
+2016-11-16 11:26:22,867 DEBUG:Drew two cards: 4 of Spades and Jack of Spades
+2016-11-16 11:26:22,867 INFO:player 2 wins round and adds 2 cards to their hand of 41
+2016-11-16 11:26:22,867 DEBUG:player 2 has 43 cards
+2016-11-16 11:26:22,867 DEBUG:Drew two cards: 8 of Diamonds and 3 of Clubs
+2016-11-16 11:26:22,867 INFO:player 1 wins round and adds 2 cards to their hand of 8
+2016-11-16 11:26:22,867 DEBUG:player 1 has 10 cards
+2016-11-16 11:26:22,867 DEBUG:Drew two cards: 6 of Spades and 8 of Clubs
+2016-11-16 11:26:22,867 INFO:player 2 wins round and adds 2 cards to their hand of 41
+2016-11-16 11:26:22,867 DEBUG:player 2 has 43 cards
+2016-11-16 11:26:22,867 DEBUG:Drew two cards: Jack of Hearts and 5 of Diamonds
+2016-11-16 11:26:22,867 INFO:player 1 wins round and adds 2 cards to their hand of 8
+2016-11-16 11:26:22,867 DEBUG:player 1 has 10 cards
+2016-11-16 11:26:22,867 DEBUG:Drew two cards: 9 of Hearts and Ace of Clubs
+2016-11-16 11:26:22,867 INFO:player 2 wins round and adds 2 cards to their hand of 41
+2016-11-16 11:26:22,867 DEBUG:player 2 has 43 cards
+2016-11-16 11:26:22,867 DEBUG:Drew two cards: 4 of Hearts and 9 of Spades
+2016-11-16 11:26:22,868 INFO:player 2 wins round and adds 2 cards to their hand of 42
+2016-11-16 11:26:22,868 DEBUG:player 2 has 44 cards
+2016-11-16 11:26:22,868 DEBUG:Drew two cards: 7 of Spades and 9 of Clubs
+2016-11-16 11:26:22,868 INFO:player 2 wins round and adds 2 cards to their hand of 43
+2016-11-16 11:26:22,868 DEBUG:player 2 has 45 cards
+2016-11-16 11:26:22,868 DEBUG:Drew two cards: 6 of Diamonds and 7 of Diamonds
+2016-11-16 11:26:22,868 INFO:player 2 wins round and adds 2 cards to their hand of 44
+2016-11-16 11:26:22,868 DEBUG:player 2 has 46 cards
+2016-11-16 11:26:22,868 DEBUG:Drew two cards: 7 of Clubs and 3 of Diamonds
+2016-11-16 11:26:22,868 INFO:player 1 wins round and adds 2 cards to their hand of 5
+2016-11-16 11:26:22,868 DEBUG:player 1 has 7 cards
+2016-11-16 11:26:22,868 DEBUG:Drew two cards: Jack of Diamonds and 9 of Diamonds
+2016-11-16 11:26:22,868 INFO:player 1 wins round and adds 2 cards to their hand of 6
+2016-11-16 11:26:22,868 DEBUG:player 1 has 8 cards
+2016-11-16 11:26:22,868 DEBUG:Drew two cards: 3 of Clubs and 5 of Spades
+2016-11-16 11:26:22,868 INFO:player 2 wins round and adds 2 cards to their hand of 43
+2016-11-16 11:26:22,868 DEBUG:player 2 has 45 cards
+2016-11-16 11:26:22,869 DEBUG:Drew two cards: 8 of Diamonds and 6 of Clubs
+2016-11-16 11:26:22,869 INFO:player 1 wins round and adds 2 cards to their hand of 6
+2016-11-16 11:26:22,869 DEBUG:player 1 has 8 cards
+2016-11-16 11:26:22,869 DEBUG:Drew two cards: Jack of Hearts and 7 of Hearts
+2016-11-16 11:26:22,869 INFO:player 1 wins round and adds 2 cards to their hand of 7
+2016-11-16 11:26:22,869 DEBUG:player 1 has 9 cards
+2016-11-16 11:26:22,869 DEBUG:Drew two cards: 5 of Diamonds and 10 of Diamonds
+2016-11-16 11:26:22,869 INFO:player 2 wins round and adds 2 cards to their hand of 42
+2016-11-16 11:26:22,869 DEBUG:player 2 has 44 cards
+2016-11-16 11:26:22,869 DEBUG:Drew two cards: 3 of Diamonds and 3 of Hearts
+2016-11-16 11:26:22,869 INFO:War! There are 8 cards in tableau
+2016-11-16 11:26:22,869 DEBUG:Drew two cards: 8 of Diamonds and 8 of Hearts
+2016-11-16 11:26:22,869 INFO:War! There are 16 cards in tableau
