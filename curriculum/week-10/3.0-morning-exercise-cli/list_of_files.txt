@@ -1,0 +1,6 @@
+Untitled
+assets
+counter.py
+input.txt
+list_of_files.txt
+readme.md

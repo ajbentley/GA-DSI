@@ -1,0 +1,11 @@
+2016-11-15 15:34:45,574INFO:the value of x is 6
+2016-11-15 15:34:45,575INFO:the value of x is 7
+2016-11-15 15:34:45,575INFO:the value of x is 8
+2016-11-15 15:34:45,575INFO:the value of x is 9
+2016-11-15 15:34:45,575INFO:the value of x is 10
+2016-11-15 15:34:45,575INFO:the value of x is 11
+2016-11-15 15:34:45,575ERROR:one step down from critical
+2016-11-15 15:34:45,575CRITICAL:STOP THE MACHINE X IS TOO HIGH, it is 11
+2016-11-15 15:34:45,576INFO:the value of x is 12
+2016-11-15 15:34:45,576ERROR:one step down from critical
+2016-11-15 15:34:45,576CRITICAL:STOP THE MACHINE X IS TOO HIGH, it is 12

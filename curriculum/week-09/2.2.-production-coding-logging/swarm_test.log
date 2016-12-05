@@ -1,0 +1,41 @@
+INFO:__main__:simple update
+WARNING:__main__:thats a dead parrot
+ERROR:__main__:foom
+CRITICAL:__main__:danger will robinson!
+INFO:__main__:simple update
+WARNING:__main__:thats a dead parrot
+ERROR:__main__:foom
+CRITICAL:__main__:danger will robinson!
+INFO:__main__:the value of x is 6
+INFO:__main__:the value of x is 7
+INFO:__main__:the value of x is 8
+INFO:__main__:the value of x is 9
+INFO:__main__:the value of x is 10
+INFO:__main__:the value of x is 11
+ERROR:__main__:one step down from critical
+CRITICAL:__main__:STOP THE MACHINE X IS TOO HIGH, it is 11
+INFO:__main__:the value of x is 12
+ERROR:__main__:one step down from critical
+CRITICAL:__main__:STOP THE MACHINE X IS TOO HIGH, it is 12
+INFO:__main__:the value of x is 6
+INFO:__main__:the value of x is 7
+INFO:__main__:the value of x is 8
+INFO:__main__:the value of x is 9
+INFO:__main__:the value of x is 10
+INFO:__main__:the value of x is 11
+ERROR:__main__:one step down from critical
+CRITICAL:__main__:STOP THE MACHINE X IS TOO HIGH, it is 11
+INFO:__main__:the value of x is 12
+ERROR:__main__:one step down from critical
+CRITICAL:__main__:STOP THE MACHINE X IS TOO HIGH, it is 12
+INFO:__main__:the value of x is 6
+INFO:__main__:the value of x is 7
+INFO:__main__:the value of x is 8
+INFO:__main__:the value of x is 9
+INFO:__main__:the value of x is 10
+INFO:__main__:the value of x is 11
+ERROR:__main__:one step down from critical
+CRITICAL:__main__:STOP THE MACHINE X IS TOO HIGH, it is 11
+INFO:__main__:the value of x is 12
+ERROR:__main__:one step down from critical
+CRITICAL:__main__:STOP THE MACHINE X IS TOO HIGH, it is 12
