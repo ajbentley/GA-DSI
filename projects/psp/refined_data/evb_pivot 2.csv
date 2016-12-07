@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+exp_year,exped while child under 1,exped while child 1-2,exped while child 3-5,exped while child 5 or older2009,0,0,0,12010,5,147,119,1632011,6,262,212,2482012,2,321,271,3242013,3,365,285,3442014,6,394,314,3982015,5,459,338,4752016,3,1487,1192,2051
+=======
 exp_year,exped while child 1-2,exped while child 3-5,exped while child 5 or older,exped while child under 1
 2009,0,0,1,0
 2010,147,119,163,5
@@ -18,3 +21,4 @@ exp_year,exped while child 1-2,exped while child 3-5,exped while child 5 or olde
 2034,0,0,1,0
 2039,0,0,1,0
 2040,0,0,1,0
+>>>>>>> 279e4473f2e0b00e0b18ece207d65835cea60b6e
