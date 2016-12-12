@@ -47,7 +47,7 @@ Specifically, the content of your presentation presentation should:
   - Requirements listed above + relevant visuals
 - A slide deck presentation of 4 minutes for a non-technical audience. 
 - A polished, 30-second elevator pitch
-- Presentations should be prepared for the end of Week 12.
+- Presentations should be prepared by Wednesday, December 14.
 
 ---
 

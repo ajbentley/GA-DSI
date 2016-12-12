@@ -39,7 +39,7 @@ Your work should document findings for peers and technical stakeholders, includi
 - Materials must be submitted in a clearly labeled Jupyter notebook, including:
  - Markdown writeups, code, and visualizations
 - Materials must be submitted via a Github.
-- Materials must be submitted by the end of Week 11.
+- Materials must be submitted by Monday, December 12.
 
 ---
 
