@@ -1,0 +1,176 @@
+http://stackoverflow.com/questions/40473943/vagrant-box-could-not-be-found-or-could-not-be-accessed-in-the-remote-catalog/40474205#40474205
+
+https://www.vagrantup.com/docs/getting-started/teardown.html
+
+https://github.com/aws/aws-cli/issues/982
+
+http://docs.aws.amazon.com/AWSEC2/latest/APIReference/errors-overview.html
+
+https://alestic.com/2014/01/ec2-ssh-username/
+
+http://stackoverflow.com/questions/18650697/cost-of-storing-ami
+
+http://hortonworks.com/hadoop-tutorial/how-to-process-data-with-apache-hive/
+
+https://www.quora.com/What-is-main-differences-between-hive-vs-pig-vs-sql
+
+http://stackoverflow.com/questions/17038414/difference-between-hive-internal-tables-and-external-tables
+
+http://www.webopedia.com/TERM/H/hadoop_distributed_file_system_hdfs.html
+
+http://docs.aws.amazon.com//ElasticMapReduce/latest/ManagementGuide/emr-gs-process-sample-data.html
+
+https://pythonhosted.org/mrjob/index.html
+
+https://www.quora.com/What-is-the-difference-between-Docker-and-Vagrant-When-should-you-use-each-one
+
+https://media.readthedocs.org/pdf/mrjob/latest/mrjob.pdf
+
+http://stevekrenzel.com/finding-friends-with-mapreduce
+
+https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/
+
+http://stackoverflow.com/questions/31080258/pysparks-flatmap-in-pandas
+
+http://unix.stackexchange.com/questions/108581/how-to-randomly-sample-a-subset-of-a-file.
+
+
+For anyone who is having issue with Flask, here is my code to help you sort out your problems. It runs locally no problem:
+```# api.py: your api flask application
+import flask
+import numpy as np
+import pandas as pd
+import pickle
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.externals import joblib
+
+app = flask.Flask(__name__)
+
+
+@app.route('/')
+def page():
+    with open('/Users/thomas/GA-DSI/Untitled Folder/taxi.html') as viz_file:
+        return viz_file.read()
+
+
+@app.route('/find_fare',methods=["POST","GET"])
+def find_fare():
+    if flask.request.method == 'POST':
+        inputs = flask.request.form
+
+        # grabbing the parameters for this request
+        dist = inputs['dist'][0]
+        rain = inputs['rain'][0]
+        temp = inputs['temp'][0]
+        # plon = inputs['plon'][0]
+        # plat = inputs['plat'][0]
+        # dlon = inputs['dlon'][0]
+        # dlat = inputs['dlat'][0]
+        day =  inputs['day'][0]  # Day of week, Monday is 0 and Sunday is 6
+        month= inputs['month'][0]
+        pass_count= inputs['pass_count'][0]
+
+        day_cols=[]
+        for thing in range(7):
+            day_cols.append(0)
+        day_cols[int(day)]=1
+
+
+        file_lookup={'7':'2015-07','8':'2015-08','9':'2015-09','10':'2015-10','11':'2015-11','12':'2015-12','1':'2016-01','2':'2016-02',\
+            '3':'2016-03','4':'2016-04','5':'2016-05','6':'2016-06'}
+        file_name=file_lookup[str(month)]
+        model = joblib.load('/Users/thomas/GA-DSI/Untitled Folder/Models/pickled_'+file_name)
+
+
+                ### Check the actual hour numbers, want to make sure that it doesn't start on 0, or 1. Do it correctly
+
+            # The column orders are all screwed up
+        hour_dict={'0':0,'1':1,'2':12,'3':17,'4':18,'5':19,'6':20,'7':21,'8':22,'9':"drop",'10':2,'11':3,'12':4,'13':5,'14':6,'15':7,'16':8,'17':9,'18':10,'19':11,'20':13,'21':14,'22':15,'23':16}
+
+        rates_by_hour={}
+        for hour in range(24):
+
+            hour_cols=[]
+            for thing in range(23):
+                hour_cols.append(0)
+            if hour!=9:
+                # hour_cols[hour_dict[hour]]=1
+                hour_cols[(hour_dict[str(hour)])]=1
+
+
+
+            # objects=[float(dist),int(pass_count),float(plat),float(plon),float(dlat),float(dlon),int(temp),float(rain)]
+            objects=[float(dist),int(pass_count),int(temp),float(rain)]
+            objects.extend(day_cols[:-1])
+            objects.extend(hour_cols)
+            # rates_by_hour.append([hour,objects])
+            pred_array=[x for x in objects]
+            prediction=model.predict(pred_array)[0]
+            rates_by_hour[hour]=prediction
+
+        return flask.jsonify(rates_by_hour)
+
+
+# app.py: your main flask application
+
+if __name__ == '__main__':
+    '''Connects to the server'''
+
+    HOST = '127.0.0.1'
+    PORT = '4000'
+    app.run(HOST, PORT)
+
+```
+
+[8:57]
+ ```<html>
+  <head>
+    <title> Taxi Data </title>
+  </head>
+   <body>
+
+    <h1> Green Taxi Fare Estimator </h1>
+
+      <form action="http://localhost:4000/find_fare" method="POST">
+         <p> Trip Distance <input type="float" name="dist" /></p>
+         <p> Rain Amount <input type="float" name="rain" /></p>
+         <p> Temperature <input type="int" name="temp" /></p>
+         <!-- <p> Start Longitude <input type="float" name="plon" /></p> -->
+         <!-- <p> Start Latitude <input type="float" name="plat" /></p> -->
+         <!-- <p> End Longitude <input type="float" name="dlon" /></p> -->
+         <!-- <p> End Latitude <input type="float" name="dlat" /></p> -->
+         <p> Day of the Week (0 is Monday and 6 is Sunday) <input type="int" name="day" /></p>
+         <p> Month <input type="int" name="month" /></p>
+         <p> Number of Passengers <input type="int" name="pass_count" /></p>
+
+         <p><input type="submit" value="submit"/></p>
+      </form>
+
+   </body>
+</html>
+
+
+
+
+from flask import Flask
+app = Flask(__name__)
+
+@app.route(‘/model_one')
+def m_one():
+   return 'Hello, from model 1!’
+
+@app.route(‘/model_two')
+def m_two():
+   return 'Hello, from model 2!' (edited)
+
+[11:04]
+in case anyone is still wondering how to set up multiple endpoints
+
+
+
+
+https://flask-cors.readthedocs.io/en/latest/
+
+https://aws.amazon.com/resources/gartner-2016-mq-learn-more/
+
+https://www.gartner.com/doc/reprints?id=1-2G2O5FC&ct=150519&st=sb

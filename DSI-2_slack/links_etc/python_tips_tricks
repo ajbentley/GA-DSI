@@ -1,0 +1,56 @@
+Save the figure in matplotlib
+fig.savefig(‘Your_plot_name')
+
+to find out all the methods you can do on an object such as np, plt, you can do plt.<tab> which will give you a list of methods like this example
+
+when inside a method such as plt.bar(), hit shit+tab+tab, which will give you the documentation associated with the method
+
+How to insert picture into your jupyter notebook?
+http://stackoverflow.com/questions/10628262/inserting-image-into-ipython-notebook-markdown
+
+if python prints your dictionaries “ugly-ly”, you can import the “pretty print library"
+import pprint
+pprint.pprint(dictionary)
+try %pprint
+
+http://stackoverflow.com/questions/17230797/how-to-set-the-matplotlib-figure-default-size-in-ipython-notebook
+
+http://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas
+
+you can bulk comment by highlighting the text and hitting CMD + / on macs and Cntrl + / on windows
+
+http://www.pythonforbeginners.com/api/list-of-python-apis
+
+http://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html
+
+https://notebooks.azure.com/
+
+http://askubuntu.com/questions/409025/permission-denied-when-running-sh-scripts
+
+http://effbot.org/librarybook/sys.htm
+
+http://pythoncentral.io/execute-python-script-file-shell/
+
+
+http://stackoverflow.com/questions/1077015/python-list-comprehensions-compressing-a-list-of-lists
+
+In this morning's exercise, where we had a datetime column, this is how to set the column as the datetime index
+```usage.index = usage['timestamp']
+del usage['timestamp']
+
+http://pandas.pydata.org/pandas-docs/stable/style.html
+
+  https://www.airpair.com/python/posts/top-mistakes-python-big-data-analytics
+
+
+
+how to change print out to 12-hour. change first def to:
+  def print_time(self):
+      if self.hour < 12:
+          print '%.2d:%.2d:%.2d' % (self.hour, self.minute, self.second)
+      else:
+          print '%.2d:%.2d:%.2d' % (self.hour -12, self.minute, self.second)
+
+http://effbot.org/zone/python-with-statement.htm
+
+https://pypi.python.org/pypi/python-slugify
