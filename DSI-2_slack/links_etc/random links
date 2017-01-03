@@ -340,3 +340,542 @@ https://slack.engineering/data-wrangling-at-slack-f2e0ff633b69#.5kovjsyuy
 https://news.vice.com/story/journalists-and-trump-voters-live-in-separate-online-bubbles-mit-analysis-shows?utm_source=vicenewsfbads
 
 http://virantha.com/2013/11/14/starting-a-simple-flask-app-with-heroku/
+
+https://subredditrecommender.herokuapp.com/
+
+https://www.hackerrank.com/contests/dysonswarmone/leaderboard
+
+https://grad.saintmarys.edu/fluid-intelligence
+
+https://source.opennews.org/en-US/articles/what-i-learned-recreating-one-chart-using-24-tools/
+
+https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist
+
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.e309zs5r5
+
+https://pbs.twimg.com/profile_images/627283912075702272/gsmHwYrT.jpg
+
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+https://en.wikipedia.org/wiki/Student's_t-test
+
+http://www.math.uah.edu/stat/hypothesis/Bernoulli.html
+
+http://www.ncaa.com/interactive-bracket/basketball-men/d1
+
+https://subredditrecommender.herokuapp.com/
+
+https://shielded-dusk-61002.herokuapp.com/
+
+https://docs.google.com/spreadsheets/d/17dY5wskFkx9tbySCiihOQcs3A91-8LC0OFz6CHI_GW0/edit#gid=0
+
+http://i.imgur.com/dXMcJtu.gifv
+
+http://www.nytimes.com/interactive/2016/12/16/business/economy/nine-new-findings-about-income-inequality-piketty.html
+
+http://www.cnn.com/interactive/2016/12/specials/vanishing/
+
+https://news.ycombinator.com/item?id=13232883
+
+http://www.tylervigen.com/spurious-correlations
+
+
+winston [10:53 AM]
+:thumbsup:
+
+Sara Pocklington [10:53 AM]
+phone screen style?
+
+alex.combs [10:55 AM]
+it’s like wu-tang style but on the phone with a recruiter, so essentially totally different than wu-tang style
+
+Peida (Peter) Cai -DSI-NYC [10:56 AM]
+Hmmm... deep... need to think...
+
+alex.combs [10:56 AM]
+but there is never a reason not to include wu-tang style in a sentence
+
+Amish Dalal [10:56 AM]
+i wonder if wu-tang’s financial arm is hiring...
+
+Andrew Jeong - DSI - NYC [10:56 AM]
+agreed
+
+Sara Pocklington [10:57 AM]
+That made complete sense to me (edited)
+
+Sara Pocklington [10:59 AM]
+uploaded an image: Pasted image at 2016-12-13, 10:59 AM
+Add Comment
+
+Joshua Bentley [11:00 AM]
+uploaded an image: It's so refreshing!
+Add Comment
+
+winston [11:11 AM]
+@channel for documentation reading practice, there’s an optional morning exercise in the repo: the challenge is to quickly reproduce a specific example with a brand new library. for those interested, after lunch we can talk through documentation and troubleshooting tactics. (you requested this lesson a few weeks ago, but not sure how many people still need it!)
+
+[11:12]
+also: i have 1-2 available slots for technical interview practice. sign up by yelling something at me on slack, first come first served.
+
+[11:15]
+and apologies, i forgot to update the calendar. we’re doing A/B testing this afternoon!
+
+winston [11:21 AM]
+(JP and then Joshua were first to yell.) (edited)
+
+Federman Max [12:15 PM]
+http://www.cc.com/video-clips/tw2ltp/chappelle-s-show-wu-tang-financial---uncensored
+ Comedy Central
+Wu-Tang Financial - Uncensored-Chappelle's Show - Video Clip | Comedy Central
+Listen to Wu-Tang Financial: Diversify your bonds and invest in nuclear weapons.
+
+
+
+alex.combs [1:32 PM]
+@here swapping in a timed hackerrank competition for this afternoon’s a/b testing lecture - no worries, you will still be getting the a/b lecture on Thursday morning
+
+[1:32]
+https://www.hackerrank.com/dysonswarmone
+ HackerRank
+Join DysonSwarmOne on HackerRank
+Welcome to the Dyson Swarm final week coding challenge! You will be presented with a number of coding challenges. These are exactly the types of questions you will encounter in technical interviews. They are a mix of Python and SQL questions. Answer as many as you can. You will have exactly one hour and 45 minutes before the contest closes. Good luck!
+
+
+
+[1:32]
+contest begins at 3pm
+
+winston [1:34 PM]
+quick check — how many people want to discuss the documentation exercise for 20-30 mins? Gimme a :heavy_plus_sign: if so
+
+[1:37]
+cool, we can break off a smaller group for that. i’ll book a room.
+
+winston [1:43 PM]
+sara, peida, joceyn, andrew — let’s meet now in 2A please!
+
+Amer Shalan [1:46 PM]
+Get a Heroku account - https://www.heroku.com/
+Install the Heroku tools. https://toolbelt.heroku.com/ This gives you the command-line `heroku` tool to deploy and run your web app
+heroku.com
+Cloud Application Platform | Heroku
+Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. (114KB)
+
+  devcenter.heroku.com
+Heroku CLI | Heroku Dev Center
+How to download, install, and start using, the Heroku CLI. The Heroku CLI used to be part of the Heroku Toolbelt.
+
+
+
+Sara Pocklington [1:47 PM]
+@winston  not 2A
+
+winston [1:47 PM]
+no?
+
+Jocelyn Ong [1:47 PM]
+We're at 2A
+
+[1:48]
+But wdi is still in it?
+
+winston [1:48 PM]
+oh sorry
+
+[1:48]
+one moment
+
+[1:49]
+sagan!
+
+Peida (Peter) Cai -DSI-NYC [1:49 PM]
+uploaded an image: 2A?
+Add Comment
+
+Amer Shalan [1:49 PM]
+http://virantha.com/2013/11/14/starting-a-simple-flask-app-with-heroku/
+virantha.com
+Starting a simple Flask app with Heroku | Virantha Namal Ekanayake
+Posts and writings by Virantha Ekanayake
+
+winston [1:49 PM]
+@jocelyn-ong
+
+Amer Shalan [3:59 PM]
+uploaded and commented on an image: Screen Shot 2016-12-13 at 3.58.59 PM.png
+1 Comment
+rage quit
+
+Thomas Voreyer [4:00 PM]
+Find your next new favorite subreddit: https://subredditrecommender.herokuapp.com/
+
+alex.combs [4:56 PM]
+https://www.hackerrank.com/contests/dysonswarmone/leaderboard
+ hackerrank.com
+HackerRank
+Join over 1 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.
+
+
+
+[4:57]
+congrats!
+
+winston [4:58 PM]
+guys you’re all winners in my book
+
+alex.combs [5:44 PM]
+https://grad.saintmarys.edu/fluid-intelligence
+
+alex.combs [5:44 PM]
+uploaded an image: Pasted image at 2016-12-13, 5:44 PM
+Add Comment
+
+alex.combs [5:47 PM]
+https://source.opennews.org/en-US/articles/what-i-learned-recreating-one-chart-using-24-tools/
+ source.opennews.org
+What I Learned Recreating One Chart Using 24 Tools  - Features - Source: An OpenNews project
+Source - Journalism Code, Context & Community
+
+
+----- December 14th -----
+alex.combs [9:23 AM]
+https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist
+
+Debjani Palit [12:53 PM]
+uploaded a file
+capstone_deb
+596KB
+PowerPoint Presentation
+ Click to download
+Add Comment
+
+alex.combs [5:24 PM]
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.e309zs5r5
+ Hacker Noon
+How it feels to learn JavaScript in 2016
+No JavaScript frameworks were created during the writing of this article.
+Reading time
+----------------
+12 min read
+
+(333KB)
+Oct 3rd, 2016 at 11:15 AM
+
+
+
+----- December 15th -----
+alex.combs [9:37 AM]
+https://pbs.twimg.com/profile_images/627283912075702272/gsmHwYrT.jpg (12KB)
+
+
+[9:37]
+try that
+
+alex.combs [9:43 AM]
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+ the data science blog ujjwalkarn
+An Intuitive Explanation of Convolutional Neural Networks
+What are Convolutional Neural Networks and why are they important?
+Convolutional Neural Networks (ConvNets or CNNs) are a category of Neural Networks that have proven very effective in areas such as image recognition and classification. ConvNets have been successful in identifying faces, objects and traffic signs apart from powering vision in robots and self driving cars.
+
+Figure 1: Source [1]
+In Figure 1 above, a ConvNet is able to recognize scenes and the system is able to suggest Show more…
+
+
+
+alex.combs [10:02 AM]
+https://en.wikipedia.org/wiki/Student's_t-test
+ Wikipedia
+Student's t-test
+A t-test is any statistical hypothesis test in which the test statistic follows a Student's t-distribution under the null hypothesis. It can be used to determine if two sets of data are significantly different from each other.
+A t-test is most commonly applied when the test statistic would follow a normal distribution if the value of a scaling term in the test statistic were known. When the scaling term is unknown and is replaced by an estimate based on the data, the test statistics (under certain Show more… (18KB)
+
+
+winston [10:04 AM]
+http://www.math.uah.edu/stat/hypothesis/Bernoulli.html
+
+[10:06]
+https://goo.gl/forms/gaTRMWoHmw5d8AGn2
+ Google Docs
+DSI Dyson Swarm: project submission
+Please submit the exact URL from your Github repository. For weekly projects, you'll get feedback in the form of the rubric saved on that project's page. For any shorter assignments, we'll send you comments on your code over email or Slack. (97KB)
+
+
+Amer Shalan [10:40 AM]
+http://www.ncaa.com/interactive-bracket/basketball-men/d1
+ NCAA.com
+NCAA Bracket: March Madness 2016 Men's Basketball Tournament | NCAA.com
+The official NCAA March Madness bracket of the 2016 Division I Men's Basketball Championship.
+
+
+
+winston [12:38 PM]
+@channel alert alert :siren: we’ll do our science fair in 4C, our current classroom
+
+[12:39]
+has anyone invited friends/businesses, told them to go to the Concourse, and is unable to send them this change of location? (if so I’ll post a sign)
+
+Thomas Voreyer [1:32 PM]
+https://subredditrecommender.herokuapp.com/
+
+Jocelyn Ong [2:40 PM]
+@winston and @alex.combs we're at the bleechers
+
+Amer Shalan [2:49 PM]
+uploaded an image: Slack for Android Upload
+Add Comment
+
+Amish Dalal [3:02 PM]
+uploaded an image: New linkedin profile pic
+Add Comment
+
+Andrew Jeong - DSI - NYC [3:18 PM]
+https://shielded-dusk-61002.herokuapp.com/
+
+Betsy Zimmermann [3:55 PM]
+@winston @alex.combs Thank you again! Here's your recommender: https://pacific-shore-34349.herokuapp.com/
+
+Betsy Zimmermann [3:55 PM]
+added a CSV snippet: (and the CSV)
+Winston,Alex
+https://www.amazon.com/Dad-Jokes-Puns-Inspired-Dads/dp/1539751848/ref=sr_1_2?ie=UTF8&qid=1481823129&sr=8-2&keywords=book+of+dad+jokes,https://www.amazon.com/iCODIS-Projector-Wireless-Connectivity-Portable/dp/B01H03WJNU/ref=sr_1_7?s=electronics&ie=UTF8&qid=1481823643&sr=1-7&keywords=pocket+projector
+https://www.amazon.com/Wireless-Presenter-Powerpoint-Clicker-Presentation/dp/B00YG8DWNE/ref=sr_1_4?ie=UTF8&qid=1481823150&sr=8-4&keywords=laser+pointer,https://www.amazon.com/Donald-Trump-Christmas-Sweatshirt-X-Large/dp/B01N1LVANN/ref=sr_1_8?s=apparel&ie=UTF8&qid=1481823616&sr=1-8&nodeID=7141123011&keywords=ugly+christmas+sweater+men
+https://www.amazon.com/Logitech-Professional-Presenter-Presentation-Wireless/dp/B002GHBUTU/ref=sr_1_1?ie=UTF8&qid=1481823168&sr=8-1&keywords=Logitech+Professional+Presenter+R800%2C+Presentation+Wireless+Presenter+with+Laser+Pointer+Green,https://www.amazon.com/Logitech-Professional-Presenter-Presentation-Wireless/dp/B002GHBUTU/ref=sr_1_1?s=beauty&ie=UTF8&qid=1481823599&...
+Add Comment Click to expand inline 16 lines
+
+Kristen Su [3:56 PM]
+Hi guys please fill out if you haven’t already
+
+[3:56]
+https://docs.google.com/spreadsheets/d/17dY5wskFkx9tbySCiihOQcs3A91-8LC0OFz6CHI_GW0/edit#gid=0
+
+Maria Pichardo [3:57 PM]
+uploaded an image: Slack for iOS Upload
+Add Comment
+
+Maria Pichardo [3:58 PM]
+uploaded an image: Slack for iOS Upload
+Add Comment
+
+Maria Pichardo [3:59 PM]
+uploaded an image: Slack for iOS Upload
+Add Comment
+
+JP Freeley - DSI - NYC [4:48 PM]
+please share pictures into here: https://goo.gl/photos/VwAbhqZavksNwfUa9
+ Google Photos
+Dyson Swarm Pictures (GA-DSI-NYC-2)
+62 new photos added to shared album (45KB)
+
+
+
+----- December 16th -----
+Sam Falk [9:15 AM]
+uploaded a file
+Slack for iOS Upload
+6MB
+MPEG 4 Video
+ Click to download
+Add Comment
+
+Jesse Sanford [2:43 PM]
+uploaded an image: *sigh
+Add Comment
+
+Jesse Sanford [2:43 PM]
+http://i.imgur.com/dXMcJtu.gifv
+ Imgur
+Imgur GIF
+
+
+Jesse Sanford [3:27 PM]
+http://www.nytimes.com/interactive/2016/12/16/business/economy/nine-new-findings-about-income-inequality-piketty.html
+ The New York Times By JEREMY ASHKENAS
+Nine New Findings About Inequality in the United States
+In a paper published last week, Piketty, Saez and Zucman expand their earlier work on income inequality, examining how taxes and government spending affect income inequality.
+
+
+
+
+----- December 17th -----
+Jesse Sanford [2:09 PM]
+http://www.cnn.com/interactive/2016/12/specials/vanishing/
+ CNN
+The extinction crisis is far worse than you think
+Frogs, coral, elephants -- all are on the brink. Three quarters of species could disappear. Why is this happening? CNN explores an unprecedented global crisis.
+
+
+(edited)
+
+
+----- December 19th -----
+Joshua Bentley [12:40 PM]
+anything to pull?>
+
+alex.combs [1:12 PM]
+yes, actually
+
+Kristen Su [4:03 PM]
+No email from Damien...
+
+
+----- December 20th -----
+winston [1:46 PM]
+i think he’s on vacation, but we can remind him when he’s back
+
+alex.combs [8:05 PM]
+Or maaaaaybe nobody graduates!!
+
+Kristen Su [11:49 PM]
+Oh then you’d be stuck with us for longer :banana-dance:
+
+
+----- December 22nd -----
+alex.combs [8:39 PM]
+https://news.ycombinator.com/item?id=13232883
+
+
+----- December 23rd -----
+JP Freeley - DSI - NYC [11:25 PM]
+Quoted from the above ...
+
+apohn 1 day ago [-]
+
+Background: I currently lead a Data Science team at a big non-tech company. Previous to this I worked at a software company that had a Data Science team in their customer facing consulting group.
+I'm going to speak primarily about applied data science. This means a data scientist who is solving a business need by doing ad-hoc analysis or building a reusable solution (e.g a R+Shiny dashboard) to a business problems.
+Jobs: There are plenty of jobs out there, but you have to be careful. Many "Data Science" jobs are really BI, Business Analyst, or Sales Engineer types of jobs where some VP got it in their head that they need a Data Scientist. These jobs are great for people who are okay with Technology and Data Science being 10% of their job - and many people are like that. They don't care about engineering, coding, or tech and statistics beyond the minimum to do their jobs. But if you really want a job that involves solid tech and stats/ML skills you will be unsatisfied at these types of jobs.
+Right now there are plenty of hard business problems that people want to turn into Data Science problems because they think it'll give them a competitive edge or something to market and show off. This results in more data science job openings. However, they are not really data science problems. As somebody else said, people will eventually realize they are not getting the value they need with data scientists doing these types of jobs. Then they'll replace that person with an MBA with some DS coursework (e.g. MBA who can use KNIME or SAS Enterprise Miner) or eliminate the position.
+People: I interview people and I know people at other organizations who interview candidates for Data Science roles. MOOCs and many degree programs (including 2 year MS degrees) are pushing out people who have a very superficial overview of data science. Basically they teach them about every ML algorithm in the known universe and the functions to call them them in R/Python/SAS. The end result is a mediocre coder or non-coder who boils everything down to a confusion matrix or root mean squared error. But they cannot actually think through a business problem or see why a low error doesn't equal a good model (see http://www.tylervigen.com/spurious-correlations)
+Finding good people is hard and you have to be flexible to realize great people can come from different backgrounds.
+--AND--
+This thread is really depressing as someone currently going through a bootcamp. (dataquest) Is it more realistic to aspire for data engineering/analyst roles?
+ tylervigen.com
+15 Insane Things That Correlate With Each Other
+Why do these things correlate? These 15 correlations will blow your mind. (Is this headline sensationalist enough for you to click on it yet?) (40KB)
+
+(edited)
+
+
+----- December 24th -----
+winston [2:35 PM]
+that was a pretty pessimistic thread. my 2 cents: people aren’t actually talking about the market demand for data scientists, they’re arguing about what a data scientist is, and getting granular about the different kinds of roles and work scenarios in the data science space. so use that knowledge to help inform what to apply to and how to pitch yourself for different roles.
+
+alex.combs [2:40 PM]
+Lot of sound and fury that basically says the value is in solving business problems which shouldn't really be surprising
+
+winston [2:45 PM]
+where are the shakespeare emojis
+
+alex.combs [3:14 PM]
+Close enough
+
+winston [8:58 PM]
+hey all, here’s the list of R + Python packages that Ally Tubis (data director at Rodale) said she’d share:
+
+Pinned by JP Freeley - DSI - NYC
+Dec 26th at 12:31 AM Pinned by JP Freeley - DSI - NYC
+[8:59]
+R & Python Package List
+R Packages:
+To install:
+install.packages("mypackage")
+To use:
+library(mypackage) (you do not need to use namespacing in R, so you can call myfunction() directly)
+General Data Manipulation
+dplyr
+plyr
+magrittr
+reshape2
+stringr
+matrixStats (in particular for its weighted median function)
+Data Visualization
+ggplot2
+RColorBrewer
+I/O
+readr
+RJSONIO
+Forecasting
+forecast
+zoo
+Topic Models
+lda
+ldatuning
+LDAvis
+tm
+topicmodels
+NLP
+Decision Trees & Random Forests
+randomForest
+rpart
+
+Python Packages:
+To install:
+pip install mypackage (from Terminal or Command Prompt)
+
+To use (within Python/Jupyter Notebook) :
+import mypackage (lets you reference mypackage.myfunction() )
+also:
+import mypackage as mypkg (lets you reference mypkg.myfunction())
+and finally:
+from mypackage import myfunction (lets you use myfunction() without package referent/namespace)
+Dashboards
+amqp
+celery
+cryptography
+Django
+django-extensions
+Web Scraping
+beautifulsoup4
+API clients
+boto3
+google-api-python-client
+oauth2client
+General
+ipython
+jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-image
+scikit-learn
+scipy
+simplejson
+Virtual Environment
+virtualenv
+virtualenvwrapper
+
+http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/
+
+https://www.youtube.com/watch?v=Y1rVZAezExQ
+
+http://meetu.ps/e/Cj5NQ/xP1KF/d
+
+https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data
+
+https://www.youtube.com/watch?v=6xsvGYIxJok
+
+https://www.youtube.com/watch?v=maQ_KQOvcj4
+
+http://www.galvanize.com/blog/tattoos-are-forever-use-data-science-to-pick-the-right-artist/
+
+http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?ref=technology&_r=0
+
+http://www.fuse.tv/2013/07/famous-songs-sued-plagiarism
+
+https://www.youtube.com/watch?v=5pidokakU4I
+
+https://www.youtube.com/watch?v=MN23lFKfpck
+
+http://vemo.com/
+
+http://projectiv.herokuapp.com/
+
+https://www.etsy.com/listing/71739287/collection-of-10-distribution-plushies
+
+https://i.reddituploads.com/9cf2711854b84c0cb5f143f5456ad031?fit=max&h=1536&w=1536&s=7aa0269674cdd9c1170a1320c1997a61
+
+https://youtu.be/_rdINNHLYaQ
+
+https://www.quora.com/?digest_story=9689167
