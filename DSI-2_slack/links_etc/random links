@@ -1,0 +1,890 @@
+https://blog.okcupid.com/index.php/the-biggest-lies-in-online-dating/
+
+https://www.washingtonpost.com/news/wonk/wp/2016/08/26/an-alarming-number-of-scientific-papers-contain-excel-errors/
+
+https://datadrivendj.com/tracks/subway
+
+http://www.masswerk.at/minard/
+
+https://www.ted.com/search?q=hans+rosling
+
+http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/tests-of-means/why-use-2-sample-t/
+
+http://www.adnews.com.au/news/data-is-the-new-bacon-says-kellogg-as-digital-ad-spend-matches-that-of-tv
+
+http://toddwschneider.com/posts/the-simpsons-by-the-data/
+
+http://www.newyorker.com/culture/sasha-frere-jones/fixing-the-charts
+
+http://www.modestinsights.com/analyzing-the-billboard-hot-100/
+
+http://www.inc.com/magazine/201512/jeff-bercovici/slack-company-of-the-year-2015.html
+
+http://fakespot.com/
+
+https://appsto.re/us/nnK6db.i
+
+http://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/
+
+https://www.ted.com/playlists/201/art_from_data
+
+http://i.imgur.com/CkRe7Ru.png
+
+http://sociable.co/technology/cia-siren-servers-social-uprisings/
+
+https://sitesdoneright.com/blog/2013/03/what-is-418-im-a-teapot-status-code-error
+
+https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/
+
+http://flip.it/CBoD0b
+
+https://www.cnet.com/news/are-you-getting-paid-enough-glassdoor/
+
+https://docs.scipy.org/doc/numpy/user/basics.rec.html#defining-structured-arrays
+
+https://www.quora.com/What-is-the-story-behind-anonymous-animals-on-Google-sheets-and-Docs
+
+https://www.fordfoundation.org/ideas/equals-change-blog/posts/weapons-of-math-destruction-data-scientist-cathy-o-neil-on-how-unfair-algorithms-perpetuate-inequality/?utm_source=Ford+Foundation
+
+http://www.phil.vt.edu/dmayo/personal_website/Lindley_Philosophy_of_Statistics.pdf
+
+http://gizmodo.com/a-future-where-tiny-swarming-robots-bring-me-my-phone-i-1788064890
+
+https://www.ted.com/talks/zeynep_tufekci_we_can_t_control_what_our_intelligent_machines_are_learning?language=en
+
+http://seaborn.pydata.org/
+
+http://fortune.com/2016/07/17/big-data-nypd-situational-awareness/
+
+https://triphappy.com/blog/finding-the-best-places-to-stay-anywhere/15
+
+http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+
+https://priceonomics.com/the-evolution-of-startups-as-told-by-analyzing/
+
+http://blog.algorithmia.com/solve-fizzbuzz-machine-learning-scikit-learn/
+
+https://twitter.com/cullenroche/status/800777753964388352
+
+http://news.mlh.io/i-hacked-the-middle-out-compression-from-silicon-valley-06-16-2015
+
+https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+
+http://minimaxir.com/
+
+https://www.math.washington.edu/~greenbau/Math_498/lecture03_pagerank.pdf
+
+https://www.indiehackers.com/businesses/logojoy
+
+https://www.bloomberg.com/news/articles/2016-12-01/two-sigma-unleashes-730-000-data-scientists-in-algorithm-contest
+
+http://stsdas.stsci.edu/download/mdroe/plotting/entry11/index.html
+
+https://pbs.twimg.com/media/Cxpo6ZuVEAAu79K.jpg
+
+https://en.wikipedia.org/wiki/Akaike_information_criterion
+
+http://www.marketingdistillery.com/2015/05/03/the-inconvenient-truth-about-data-science/
+
+http://bit.ly/2gQREb2
+
+https://www.youtube.com/watch?v=O7IezJT9uSI
+
+https://www.random.org/
+
+https://news.ycombinator.com/item?id=12796556
+
+http://iquantny.tumblr.com/post/129262809214/taking-on-uber-lyft-turns-to-citys-night-owls
+
+http://www.nyc.gov/html/dot/downloads/pdf/seasonal-fatalities-2016.pdf
+
+https://www.datascienceweekly.org/articles/how-to-choose-a-data-science-project-for-your-data-science-portfolio
+
+https://www.amazon.com/gp/product/1937785319
+
+datekey,date,year,year_month,year_quarter,quarter_name,quarter_of_year,month_of_year,month_long_name,month_short_name,week_of_year,week_name,two_week,day_of_year,day_of_month,day_of_week,day_long_name,day_short_name,day_type,holiday_type
+20000101,2000-01-01,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,1,Week 01,Weeks 01-02,1,1,7,Saturday,Sat,Weekend,Holiday
+20000102,2000-01-02,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,2,2,1,Sunday,Sun,Weekend,Non-Holiday
+20000103,2000-01-03,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,3,3,2,Monday,Mon,Weekday,Non-Holiday
+20000104,2000-01-04,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,4,4,3,Tuesday,Tue,Weekday,Non-Holiday
+20000105,2000-01-05,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,5,5,4,Wednesday,Wed,Weekday,Non-Holiday
+20000106,2000-01-06,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,6,6,5,Thursday,Thu,Weekday,Non-Holiday
+20000107,2000-01-07,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,7,7,6,Friday,Fri,Weekday,Non-Holiday
+20000108,2000-01-08,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,2,Week 02,Weeks 01-02,8,8,7,Saturday,Sat,Weekend,Non-Holiday
+20000109,2000-01-09,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,9,9,1,Sunday,Sun,Weekend,Non-Holiday
+20000110,2000-01-10,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,10,10,2,Monday,Mon,Weekday,Non-Holiday
+20000111,2000-01-11,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,11,11,3,Tuesday,Tue,Weekday,Non-Holiday
+20000112,2000-01-12,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,12,12,4,Wednesday,Wed,Weekday,Non-Holiday
+20000113,2000-01-13,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,13,13,5,Thursday,Thu,Weekday,Non-Holiday
+20000114,2000-01-14,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,14,14,6,Friday,Fri,Weekday,Non-Holiday
+20000115,2000-01-15,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,3,Week 03,Weeks 03-04,15,15,7,Saturday,Sat,Weekend,Non-Holiday
+20000116,2000-01-16,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,16,16,1,Sunday,Sun,Weekend,Non-Holiday
+20000117,2000-01-17,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,17,17,2,Monday,Mon,Weekday,Holiday
+20000118,2000-01-18,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,18,18,3,Tuesday,Tue,Weekday,Non-Holiday
+20000119,2000-01-19,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,19,19,4,Wednesday,Wed,Weekday,Non-Holiday
+20000120,2000-01-20,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,20,20,5,Thursday,Thu,Weekday,Non-Holiday
+20000121,2000-01-21,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,21,21,6,Friday,Fri,Weekday,Non-Holiday
+20000122,2000-01-22,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,4,Week 04,Weeks 03-04,22,22,7,Saturday,Sat,Weekend,Non-Holiday
+20000123,2000-01-23,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,23,23,1,Sunday,Sun,Weekend,Non-Holiday
+20000124,2000-01-24,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,24,24,2,Monday,Mon,Weekday,Non-Holiday
+20000125,2000-01-25,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,25,25,3,Tuesday,Tue,Weekday,Non-Holiday
+20000126,2000-01-26,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,26,26,4,Wednesday,Wed,Weekday,Non-Holiday
+20000127,2000-01-27,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,27,27,5,Thursday,Thu,Weekday,Non-Holiday
+20000128,2000-01-28,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,28,28,6,Friday,Fri,Weekday,Non-Holiday
+20000129,2000-01-29,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,5,Week 05,Weeks 05-06,29,29,7,Saturday,Sat,Weekend,Non-Holiday
+20000130,2000-01-30,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,6,Week 06,Weeks 05-06,30,30,1,Sunday,Sun,Weekend,Non-Holiday
+20000131,2000-01-31,2000,2000-01,2000-Q1,Q1,1,1,January,Jan,6,Week 06,Weeks 05-06,31,31,2,Monday,Mon,Weekday,Non-Holiday
+20000201,2000-02-01,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,6,Week 06,Weeks 05-06,32,1,3,Tuesday,Tue,Weekday,Non-Holiday
+20000202,2000-02-02,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,6,Week 06,Weeks 05-06,33,2,4,Wednesday,Wed,Weekday,Non-Holiday
+20000203,2000-02-03,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,6,Week 06,Weeks 05-06,34,3,5,Thursday,Thu,Weekday,Non-Holiday
+20000204,2000-02-04,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,6,Week 06,Weeks 05-06,35,4,6,Friday,Fri,Weekday,Non-Holiday
+20000205,2000-02-05,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,6,Week 06,Weeks 05-06,36,5,7,Saturday,Sat,Weekend,Non-Holiday
+20000206,2000-02-06,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,37,6,1,Sunday,Sun,Weekend,Non-Holiday
+20000207,2000-02-07,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,38,7,2,Monday,Mon,Weekday,Non-Holiday
+20000208,2000-02-08,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,39,8,3,Tuesday,Tue,Weekday,Non-Holiday
+20000209,2000-02-09,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,40,9,4,Wednesday,Wed,Weekday,Non-Holiday
+20000210,2000-02-10,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,41,10,5,Thursday,Thu,Weekday,Non-Holiday
+20000211,2000-02-11,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,42,11,6,Friday,Fri,Weekday,Non-Holiday
+20000212,2000-02-12,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,7,Week 07,Weeks 07-08,43,12,7,Saturday,Sat,Weekend,Non-Holiday
+20000213,2000-02-13,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,44,13,1,Sunday,Sun,Weekend,Non-Holiday
+20000214,2000-02-14,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,45,14,2,Monday,Mon,Weekday,Non-Holiday
+20000215,2000-02-15,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,46,15,3,Tuesday,Tue,Weekday,Non-Holiday
+20000216,2000-02-16,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,47,16,4,Wednesday,Wed,Weekday,Non-Holiday
+20000217,2000-02-17,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,48,17,5,Thursday,Thu,Weekday,Non-Holiday
+20000218,2000-02-18,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,49,18,6,Friday,Fri,Weekday,Non-Holiday
+20000219,2000-02-19,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,8,Week 08,Weeks 07-08,50,19,7,Saturday,Sat,Weekend,Non-Holiday
+20000220,2000-02-20,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,51,20,1,Sunday,Sun,Weekend,Non-Holiday
+20000221,2000-02-21,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,52,21,2,Monday,Mon,Weekday,Holiday
+20000222,2000-02-22,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,53,22,3,Tuesday,Tue,Weekday,Non-Holiday
+20000223,2000-02-23,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,54,23,4,Wednesday,Wed,Weekday,Non-Holiday
+20000224,2000-02-24,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,55,24,5,Thursday,Thu,Weekday,Non-Holiday
+20000225,2000-02-25,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,56,25,6,Friday,Fri,Weekday,Non-Holiday
+20000226,2000-02-26,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,9,Week 09,Weeks 09-10,57,26,7,Saturday,Sat,Weekend,Non-Holiday
+20000227,2000-02-27,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,10,Week 10,Weeks 09-10,58,27,1,Sunday,Sun,Weekend,Non-Holiday
+20000228,2000-02-28,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,10,Week 10,Weeks 09-10,59,28,2,Monday,Mon,Weekday,Non-Holiday
+20000229,2000-02-29,2000,2000-02,2000-Q1,Q1,1,2,February,Feb,10,Week 10,Weeks 09-10,60,29,3,Tuesday,Tue,Weekday,Non-Holiday
+20000301,2000-03-01,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,10,Week 10,Weeks 09-10,61,1,4,Wednesday,Wed,Weekday,Non-Holiday
+20000302,2000-03-02,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,10,Week 10,Weeks 09-10,62,2,5,Thursday,Thu,Weekday,Non-Holiday
+20000303,2000-03-03,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,10,Week 10,Weeks 09-10,63,3,6,Friday,Fri,Weekday,Non-Holiday
+20000304,2000-03-04,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,10,Week 10,Weeks 09-10,64,4,7,Saturday,Sat,Weekend,Non-Holiday
+20000305,2000-03-05,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,65,5,1,Sunday,Sun,Weekend,Non-Holiday
+20000306,2000-03-06,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,66,6,2,Monday,Mon,Weekday,Non-Holiday
+20000307,2000-03-07,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,67,7,3,Tuesday,Tue,Weekday,Non-Holiday
+20000308,2000-03-08,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,68,8,4,Wednesday,Wed,Weekday,Non-Holiday
+20000309,2000-03-09,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,69,9,5,Thursday,Thu,Weekday,Non-Holiday
+20000310,2000-03-10,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,70,10,6,Friday,Fri,Weekday,Non-Holiday
+20000311,2000-03-11,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,11,Week 11,Weeks 11-12,71,11,7,Saturday,Sat,Weekend,Non-Holiday
+20000312,2000-03-12,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,72,12,1,Sunday,Sun,Weekend,Non-Holiday
+20000313,2000-03-13,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,73,13,2,Monday,Mon,Weekday,Non-Holiday
+20000314,2000-03-14,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,74,14,3,Tuesday,Tue,Weekday,Non-Holiday
+20000315,2000-03-15,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,75,15,4,Wednesday,Wed,Weekday,Non-Holiday
+20000316,2000-03-16,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,76,16,5,Thursday,Thu,Weekday,Non-Holiday
+20000317,2000-03-17,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,77,17,6,Friday,Fri,Weekday,Non-Holiday
+20000318,2000-03-18,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,12,Week 12,Weeks 11-12,78,18,7,Saturday,Sat,Weekend,Non-Holiday
+20000319,2000-03-19,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,79,19,1,Sunday,Sun,Weekend,Non-Holiday
+20000320,2000-03-20,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,80,20,2,Monday,Mon,Weekday,Non-Holiday
+20000321,2000-03-21,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,81,21,3,Tuesday,Tue,Weekday,Non-Holiday
+20000322,2000-03-22,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,82,22,4,Wednesday,Wed,Weekday,Non-Holiday
+20000323,2000-03-23,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,83,23,5,Thursday,Thu,Weekday,Non-Holiday
+20000324,2000-03-24,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,84,24,6,Friday,Fri,Weekday,Non-Holiday
+20000325,2000-03-25,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,13,Week 13,Weeks 13-14,85,25,7,Saturday,Sat,Weekend,Non-Holiday
+20000326,2000-03-26,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,14,Week 14,Weeks 13-14,86,26,1,Sunday,Sun,Weekend,Non-Holiday
+20000327,2000-03-27,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,14,Week 14,Weeks 13-14,87,27,2,Monday,Mon,Weekday,Non-Holiday
+20000328,2000-03-28,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,14,Week 14,Weeks 13-14,88,28,3,Tuesday,Tue,Weekday,Non-Holiday
+20000329,2000-03-29,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,14,Week 14,Weeks 13-14,89,29,4,Wednesday,Wed,Weekday,Non-Holiday
+20000330,2000-03-30,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,14,Week 14,Weeks 13-14,90,30,5,Thursday,Thu,Weekday,Non-Holiday
+20000331,2000-03-31,2000,2000-03,2000-Q1,Q1,1,3,March,Mar,14,Week 14,Weeks 13-14,91,31,6,Friday,Fri,Weekday,Non-Holiday
+20000401,2000-04-01,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,14,Week 14,Weeks 13-14,92,1,7,Saturday,Sat,Weekend,Non-Holiday
+20000402,2000-04-02,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,93,2,1,Sunday,Sun,Weekend,Non-Holiday
+20000403,2000-04-03,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,94,3,2,Monday,Mon,Weekday,Non-Holiday
+20000404,2000-04-04,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,95,4,3,Tuesday,Tue,Weekday,Non-Holiday
+20000405,2000-04-05,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,96,5,4,Wednesday,Wed,Weekday,Non-Holiday
+20000406,2000-04-06,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,97,6,5,Thursday,Thu,Weekday,Non-Holiday
+20000407,2000-04-07,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,98,7,6,Friday,Fri,Weekday,Non-Holiday
+20000408,2000-04-08,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,15,Week 15,Weeks 15-16,99,8,7,Saturday,Sat,Weekend,Non-Holiday
+20000409,2000-04-09,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,16,Week 16,Weeks 15-16,100,9,1,Sunday,Sun,Weekend,Non-Holiday
+20000410,2000-04-10,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,16,Week 16,Weeks 15-16,101,10,2,Monday,Mon,Weekday,Non-Holiday
+20000411,2000-04-11,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,16,Week 16,Weeks 15-16,102,11,3,Tuesday,Tue,Weekday,Non-Holiday
+20000412,2000-04-12,2000,2000-04,2000-Q2,Q2,2,4,April,Apr,16,Week 16,Weeks 15-16,103,12,4,Wednesday,Wed,Weekday,Non-Holiday
+20000413,2000-04-13,2000,2000-04,2000-Q2,Q2...
+1 Comment Collapse
+My sis just sent me this helpful dataset that gives attributes for every day between 2000-2020. Very useful for anyone working with dates in their project!
+
+
+http://stackoverflow.com/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation
+
+http://www.newyorker.com/humor/daily-shouts/welcome-to-nate-silvers-haunted-house
+
+http://gothamist.com/2016/10/31/language_map_nyc.php
+
+https://segmentationsolutions.nielsen.com/mybestsegments/Default.jsp?ID=70
+With PRIZM, Nielsen broke with traditional clustering algorithms to embrace a new technology that yields better segmentation results. PRIZM was created by a proprietary method developed by Nielsen statisticians called Multivariate Divisive Partitioning (MDP). MDP borrows and extends a tree partitioning method that creates the segments based on demographics that matter most to households’ behaviors.
+The most common tree partitioning technique, Classification and Regression Trees (CART), involves a more modeling-oriented process than clustering. Described simply, statisticians begin with a single behavior they wish to predict and start with all participating households in a single segment. Predictor variables, such as income, age, or presence of children, are analyzed to find the variable—and the appropriate value of that variable—that divides the single segment into two that have the greatest difference for that behavior. Additional splitting takes place until all effective splits have been made or the size of the segment created falls below a target threshold.
+
+http://datascience.columbia.edu/model-predicting-where-landlords-may-be-skimping-heat
+
+http://datasmart.ash.harvard.edu/news/article/how-can-data-and-analytics-be-used-to-enhance-city-operations-723
+
+https://trello.com/b/rbpEfMld/data-science
+
+https://medium.com/kineviz-blog/data-and-virtual-reality-part-i-3d088cee161a#.1sjo61nm0
+
+https://medium.com/@giphy/the-secret-giphy-slack-commands-9cb4693ca6bf#.l7d6uurpc
+
+https://news.vice.com/story/a-bunch-of-kids-probably-pulled-off-the-biggest-ddos-hack-ever?utm_source=vicenewsfb
+
+http://fivethirtyeight.com/features/doctor-strange-magic-superhero-movies/
+
+https://medium.com/personal-growth/the-secret-algorithm-behind-learning-7c6f4eb702df
+
+http://gizmodo.com/elon-musk-we-need-universal-income-because-robots-will-1788644631
+
+https://en.wikipedia.org/wiki/List_of_Amtrak_rolling_stock#Locomotives
+
+https://youtu.be/pzpqrWa1eiw
+
+http://fivethirtyeight.com/features/the-cubs-have-a-smaller-chance-of-winning-than-trump-does/
+
+https://www.youtube.com/watch?v=JEYLfIVvR9I
+
+http://www.factmonster.com/ipka/A0903396.html
+
+https://talks.golang.org/2012/splash.article#TOC_3
+
+https://perplex.city/license-to-count-75c64fd36644#.68jsh9o6g
+
+http://blog.placemeter.com/blizzard-2016
+
+http://www.cnn.com/2016/11/09/politics/canada-immigration-website-down-trump-trnd/
+
+http://www.businessinsider.com.au/artificial-intelligence-trump-win-2016-10?r=US&IR=T
+
+https://gfycat.com/GrimInferiorCardinal
+
+http://www.nytimes.com/2016/11/10/technology/the-data-said-clinton-would-win-why-you-shouldnt-have-believed-it.html
+
+https://gfycat.com/IdenticalDentalBarb
+
+https://www.kickstarter.com/projects/371889649/the-shrimp-cloud
+
+https://www.kickstarter.com/projects/zackdangerbrown/potato-salad
+
+https://www.kickstarter.com/projects/1461914303/vulfpeck-the-beautiful-game
+
+http://www.dear-data.com/theproject/
+
+https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m
+
+http://sebastianraschka.com/Articles/2014_python_scope_and_namespaces.html
+
+http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself
+
+https://market.mashape.com/community/urban-dictionary
+
+https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM
+
+http://treycausey.com/software_dev_skills.html
+
+https://medium.com/conquering-corporate-america/honest-diversity-in-tech-report-49fe04b275a6?source=userActivityShare-60af9d88618e-1479302202
+
+https://medium.com/@DaleBeran/a-truly-fancy-bear-2384f413df1c#.2d2cxvqxh
+
+http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=linkedin
+
+http://www.boredpanda.com/building-post-it-war-notes-nyc-manhattan/
+
+http://content.time.com/time/health/article/0,8599,1970849,00.html
+
+https://wiki.python.org/moin/TimeComplexity
+
+http://www.bloomberg.com/news/articles/2016-11-22/big-data-is-a-big-mess-for-hedge-funds-hunting-for-trade-signals
+
+http://www.businessinsider.com/uber-outsourcing-infrastructure-to-public-cloud-2016-5
+
+http://www.svds.com/learning-imbalanced-classes/
+
+https://www.ghostery.com/
+
+https://www.linkedin.com/pulse/largest-dataset-analyzed-poll-shows-surprising-more-gregory?trk=hp-feed-article-title-share
+
+https://www.linkedin.com/groups/4332669/4332669-6177597894602817539
+
+http://www.nytimes.com/2016/11/30/technology/while-we-werent-looking-snapchat-revolutionized-social-networks.html?_r=0
+
+https://data.world/
+
+http://www.forbes.com/sites/drewhansen/2016/11/29/data-scientist-habits/#9c2895e91a01
+
+https://github.com/mwaskom/seaborn/issues/229
+
+https://en.wikipedia.org/wiki/Sam_Seaborn
+
+https://www.youtube.com/watch?v=NrmMk1Myrxc&feature=youtu.be
+
+http://gothamist.com/2016/12/05/harlem_building_govt_slumlord.php
+
+http://www.tibco.com/blog/wp-content/uploads/2013/07/spaghetti-integration.jpg
+
+https://theglassroomnyc.org/collection/
+
+https://youtu.be/NrmMk1Myrxc
+
+https://www.versobooks.com/books/1989-inventing-the-future
+
+https://docs.google.com/spreadsheets/d/17dY5wskFkx9tbySCiihOQcs3A91-8LC0OFz6CHI_GW0/edit?usp=sharing
+
+https://www.nngroup.com/articles/computer-skill-levels/
+
+https://slack.engineering/data-wrangling-at-slack-f2e0ff633b69#.5kovjsyuy
+
+https://news.vice.com/story/journalists-and-trump-voters-live-in-separate-online-bubbles-mit-analysis-shows?utm_source=vicenewsfbads
+
+http://virantha.com/2013/11/14/starting-a-simple-flask-app-with-heroku/
+
+<<<<<<< HEAD
+https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
+
+http://nbviewer.jupyter.org/github/rasbt/pattern_classification/blob/master/data_viz/swapi_viz.ipynb
+
+https://www.heroku.com/
+https://toolbelt.heroku.com/
+http://virantha.com/2013/11/14/starting-a-simple-flask-app-with-heroku/
+=======
+https://subredditrecommender.herokuapp.com/
+
+https://www.hackerrank.com/contests/dysonswarmone/leaderboard
+
+https://grad.saintmarys.edu/fluid-intelligence
+
+https://source.opennews.org/en-US/articles/what-i-learned-recreating-one-chart-using-24-tools/
+
+https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist
+
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.e309zs5r5
+
+https://pbs.twimg.com/profile_images/627283912075702272/gsmHwYrT.jpg
+
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+https://en.wikipedia.org/wiki/Student's_t-test
+
+http://www.math.uah.edu/stat/hypothesis/Bernoulli.html
+
+http://www.ncaa.com/interactive-bracket/basketball-men/d1
+
+https://subredditrecommender.herokuapp.com/
+
+https://shielded-dusk-61002.herokuapp.com/
+
+https://docs.google.com/spreadsheets/d/17dY5wskFkx9tbySCiihOQcs3A91-8LC0OFz6CHI_GW0/edit#gid=0
+
+http://i.imgur.com/dXMcJtu.gifv
+
+http://www.nytimes.com/interactive/2016/12/16/business/economy/nine-new-findings-about-income-inequality-piketty.html
+
+http://www.cnn.com/interactive/2016/12/specials/vanishing/
+
+https://news.ycombinator.com/item?id=13232883
+
+http://www.tylervigen.com/spurious-correlations
+
+
+winston [10:53 AM]
+:thumbsup:
+
+Sara Pocklington [10:53 AM]
+phone screen style?
+
+alex.combs [10:55 AM]
+it’s like wu-tang style but on the phone with a recruiter, so essentially totally different than wu-tang style
+
+Peida (Peter) Cai -DSI-NYC [10:56 AM]
+Hmmm... deep... need to think...
+
+alex.combs [10:56 AM]
+but there is never a reason not to include wu-tang style in a sentence
+
+Amish Dalal [10:56 AM]
+i wonder if wu-tang’s financial arm is hiring...
+
+Andrew Jeong - DSI - NYC [10:56 AM]
+agreed
+
+Sara Pocklington [10:57 AM]
+That made complete sense to me (edited)
+
+Sara Pocklington [10:59 AM]
+uploaded an image: Pasted image at 2016-12-13, 10:59 AM
+Add Comment
+
+Joshua Bentley [11:00 AM]
+uploaded an image: It's so refreshing!
+Add Comment
+
+winston [11:11 AM]
+@channel for documentation reading practice, there’s an optional morning exercise in the repo: the challenge is to quickly reproduce a specific example with a brand new library. for those interested, after lunch we can talk through documentation and troubleshooting tactics. (you requested this lesson a few weeks ago, but not sure how many people still need it!)
+
+[11:12]
+also: i have 1-2 available slots for technical interview practice. sign up by yelling something at me on slack, first come first served.
+
+[11:15]
+and apologies, i forgot to update the calendar. we’re doing A/B testing this afternoon!
+
+winston [11:21 AM]
+(JP and then Joshua were first to yell.) (edited)
+
+Federman Max [12:15 PM]
+http://www.cc.com/video-clips/tw2ltp/chappelle-s-show-wu-tang-financial---uncensored
+ Comedy Central
+Wu-Tang Financial - Uncensored-Chappelle's Show - Video Clip | Comedy Central
+Listen to Wu-Tang Financial: Diversify your bonds and invest in nuclear weapons.
+
+
+
+alex.combs [1:32 PM]
+@here swapping in a timed hackerrank competition for this afternoon’s a/b testing lecture - no worries, you will still be getting the a/b lecture on Thursday morning
+
+[1:32]
+https://www.hackerrank.com/dysonswarmone
+ HackerRank
+Join DysonSwarmOne on HackerRank
+Welcome to the Dyson Swarm final week coding challenge! You will be presented with a number of coding challenges. These are exactly the types of questions you will encounter in technical interviews. They are a mix of Python and SQL questions. Answer as many as you can. You will have exactly one hour and 45 minutes before the contest closes. Good luck!
+
+
+
+[1:32]
+contest begins at 3pm
+
+winston [1:34 PM]
+quick check — how many people want to discuss the documentation exercise for 20-30 mins? Gimme a :heavy_plus_sign: if so
+
+[1:37]
+cool, we can break off a smaller group for that. i’ll book a room.
+
+winston [1:43 PM]
+sara, peida, joceyn, andrew — let’s meet now in 2A please!
+
+Amer Shalan [1:46 PM]
+Get a Heroku account - https://www.heroku.com/
+Install the Heroku tools. https://toolbelt.heroku.com/ This gives you the command-line `heroku` tool to deploy and run your web app
+heroku.com
+Cloud Application Platform | Heroku
+Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. (114KB)
+
+  devcenter.heroku.com
+Heroku CLI | Heroku Dev Center
+How to download, install, and start using, the Heroku CLI. The Heroku CLI used to be part of the Heroku Toolbelt.
+
+
+
+Sara Pocklington [1:47 PM]
+@winston  not 2A
+
+winston [1:47 PM]
+no?
+
+Jocelyn Ong [1:47 PM]
+We're at 2A
+
+[1:48]
+But wdi is still in it?
+
+winston [1:48 PM]
+oh sorry
+
+[1:48]
+one moment
+
+[1:49]
+sagan!
+
+Peida (Peter) Cai -DSI-NYC [1:49 PM]
+uploaded an image: 2A?
+Add Comment
+
+Amer Shalan [1:49 PM]
+http://virantha.com/2013/11/14/starting-a-simple-flask-app-with-heroku/
+virantha.com
+Starting a simple Flask app with Heroku | Virantha Namal Ekanayake
+Posts and writings by Virantha Ekanayake
+
+winston [1:49 PM]
+@jocelyn-ong
+
+Amer Shalan [3:59 PM]
+uploaded and commented on an image: Screen Shot 2016-12-13 at 3.58.59 PM.png
+1 Comment
+rage quit
+
+Thomas Voreyer [4:00 PM]
+Find your next new favorite subreddit: https://subredditrecommender.herokuapp.com/
+
+alex.combs [4:56 PM]
+https://www.hackerrank.com/contests/dysonswarmone/leaderboard
+ hackerrank.com
+HackerRank
+Join over 1 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.
+
+
+
+[4:57]
+congrats!
+
+winston [4:58 PM]
+guys you’re all winners in my book
+
+alex.combs [5:44 PM]
+https://grad.saintmarys.edu/fluid-intelligence
+
+alex.combs [5:44 PM]
+uploaded an image: Pasted image at 2016-12-13, 5:44 PM
+Add Comment
+
+alex.combs [5:47 PM]
+https://source.opennews.org/en-US/articles/what-i-learned-recreating-one-chart-using-24-tools/
+ source.opennews.org
+What I Learned Recreating One Chart Using 24 Tools  - Features - Source: An OpenNews project
+Source - Journalism Code, Context & Community
+
+
+----- December 14th -----
+alex.combs [9:23 AM]
+https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist
+
+Debjani Palit [12:53 PM]
+uploaded a file
+capstone_deb
+596KB
+PowerPoint Presentation
+ Click to download
+Add Comment
+
+alex.combs [5:24 PM]
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.e309zs5r5
+ Hacker Noon
+How it feels to learn JavaScript in 2016
+No JavaScript frameworks were created during the writing of this article.
+Reading time
+----------------
+12 min read
+
+(333KB)
+Oct 3rd, 2016 at 11:15 AM
+
+
+
+----- December 15th -----
+alex.combs [9:37 AM]
+https://pbs.twimg.com/profile_images/627283912075702272/gsmHwYrT.jpg (12KB)
+
+
+[9:37]
+try that
+
+alex.combs [9:43 AM]
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+ the data science blog ujjwalkarn
+An Intuitive Explanation of Convolutional Neural Networks
+What are Convolutional Neural Networks and why are they important?
+Convolutional Neural Networks (ConvNets or CNNs) are a category of Neural Networks that have proven very effective in areas such as image recognition and classification. ConvNets have been successful in identifying faces, objects and traffic signs apart from powering vision in robots and self driving cars.
+
+Figure 1: Source [1]
+In Figure 1 above, a ConvNet is able to recognize scenes and the system is able to suggest Show more…
+
+
+
+alex.combs [10:02 AM]
+https://en.wikipedia.org/wiki/Student's_t-test
+ Wikipedia
+Student's t-test
+A t-test is any statistical hypothesis test in which the test statistic follows a Student's t-distribution under the null hypothesis. It can be used to determine if two sets of data are significantly different from each other.
+A t-test is most commonly applied when the test statistic would follow a normal distribution if the value of a scaling term in the test statistic were known. When the scaling term is unknown and is replaced by an estimate based on the data, the test statistics (under certain Show more… (18KB)
+
+
+winston [10:04 AM]
+http://www.math.uah.edu/stat/hypothesis/Bernoulli.html
+
+[10:06]
+https://goo.gl/forms/gaTRMWoHmw5d8AGn2
+ Google Docs
+DSI Dyson Swarm: project submission
+Please submit the exact URL from your Github repository. For weekly projects, you'll get feedback in the form of the rubric saved on that project's page. For any shorter assignments, we'll send you comments on your code over email or Slack. (97KB)
+
+
+Amer Shalan [10:40 AM]
+http://www.ncaa.com/interactive-bracket/basketball-men/d1
+ NCAA.com
+NCAA Bracket: March Madness 2016 Men's Basketball Tournament | NCAA.com
+The official NCAA March Madness bracket of the 2016 Division I Men's Basketball Championship.
+
+
+
+winston [12:38 PM]
+@channel alert alert :siren: we’ll do our science fair in 4C, our current classroom
+
+[12:39]
+has anyone invited friends/businesses, told them to go to the Concourse, and is unable to send them this change of location? (if so I’ll post a sign)
+
+Thomas Voreyer [1:32 PM]
+https://subredditrecommender.herokuapp.com/
+
+Jocelyn Ong [2:40 PM]
+@winston and @alex.combs we're at the bleechers
+
+Amer Shalan [2:49 PM]
+uploaded an image: Slack for Android Upload
+Add Comment
+
+Amish Dalal [3:02 PM]
+uploaded an image: New linkedin profile pic
+Add Comment
+
+Andrew Jeong - DSI - NYC [3:18 PM]
+https://shielded-dusk-61002.herokuapp.com/
+
+Betsy Zimmermann [3:55 PM]
+@winston @alex.combs Thank you again! Here's your recommender: https://pacific-shore-34349.herokuapp.com/
+
+Betsy Zimmermann [3:55 PM]
+added a CSV snippet: (and the CSV)
+Winston,Alex
+https://www.amazon.com/Dad-Jokes-Puns-Inspired-Dads/dp/1539751848/ref=sr_1_2?ie=UTF8&qid=1481823129&sr=8-2&keywords=book+of+dad+jokes,https://www.amazon.com/iCODIS-Projector-Wireless-Connectivity-Portable/dp/B01H03WJNU/ref=sr_1_7?s=electronics&ie=UTF8&qid=1481823643&sr=1-7&keywords=pocket+projector
+https://www.amazon.com/Wireless-Presenter-Powerpoint-Clicker-Presentation/dp/B00YG8DWNE/ref=sr_1_4?ie=UTF8&qid=1481823150&sr=8-4&keywords=laser+pointer,https://www.amazon.com/Donald-Trump-Christmas-Sweatshirt-X-Large/dp/B01N1LVANN/ref=sr_1_8?s=apparel&ie=UTF8&qid=1481823616&sr=1-8&nodeID=7141123011&keywords=ugly+christmas+sweater+men
+https://www.amazon.com/Logitech-Professional-Presenter-Presentation-Wireless/dp/B002GHBUTU/ref=sr_1_1?ie=UTF8&qid=1481823168&sr=8-1&keywords=Logitech+Professional+Presenter+R800%2C+Presentation+Wireless+Presenter+with+Laser+Pointer+Green,https://www.amazon.com/Logitech-Professional-Presenter-Presentation-Wireless/dp/B002GHBUTU/ref=sr_1_1?s=beauty&ie=UTF8&qid=1481823599&...
+Add Comment Click to expand inline 16 lines
+
+Kristen Su [3:56 PM]
+Hi guys please fill out if you haven’t already
+
+[3:56]
+https://docs.google.com/spreadsheets/d/17dY5wskFkx9tbySCiihOQcs3A91-8LC0OFz6CHI_GW0/edit#gid=0
+
+Maria Pichardo [3:57 PM]
+uploaded an image: Slack for iOS Upload
+Add Comment
+
+Maria Pichardo [3:58 PM]
+uploaded an image: Slack for iOS Upload
+Add Comment
+
+Maria Pichardo [3:59 PM]
+uploaded an image: Slack for iOS Upload
+Add Comment
+
+JP Freeley - DSI - NYC [4:48 PM]
+please share pictures into here: https://goo.gl/photos/VwAbhqZavksNwfUa9
+ Google Photos
+Dyson Swarm Pictures (GA-DSI-NYC-2)
+62 new photos added to shared album (45KB)
+
+
+
+----- December 16th -----
+Sam Falk [9:15 AM]
+uploaded a file
+Slack for iOS Upload
+6MB
+MPEG 4 Video
+ Click to download
+Add Comment
+
+Jesse Sanford [2:43 PM]
+uploaded an image: *sigh
+Add Comment
+
+Jesse Sanford [2:43 PM]
+http://i.imgur.com/dXMcJtu.gifv
+ Imgur
+Imgur GIF
+
+
+Jesse Sanford [3:27 PM]
+http://www.nytimes.com/interactive/2016/12/16/business/economy/nine-new-findings-about-income-inequality-piketty.html
+ The New York Times By JEREMY ASHKENAS
+Nine New Findings About Inequality in the United States
+In a paper published last week, Piketty, Saez and Zucman expand their earlier work on income inequality, examining how taxes and government spending affect income inequality.
+
+
+
+
+----- December 17th -----
+Jesse Sanford [2:09 PM]
+http://www.cnn.com/interactive/2016/12/specials/vanishing/
+ CNN
+The extinction crisis is far worse than you think
+Frogs, coral, elephants -- all are on the brink. Three quarters of species could disappear. Why is this happening? CNN explores an unprecedented global crisis.
+
+
+(edited)
+
+
+----- December 19th -----
+Joshua Bentley [12:40 PM]
+anything to pull?>
+
+alex.combs [1:12 PM]
+yes, actually
+
+Kristen Su [4:03 PM]
+No email from Damien...
+
+
+----- December 20th -----
+winston [1:46 PM]
+i think he’s on vacation, but we can remind him when he’s back
+
+alex.combs [8:05 PM]
+Or maaaaaybe nobody graduates!!
+
+Kristen Su [11:49 PM]
+Oh then you’d be stuck with us for longer :banana-dance:
+
+
+----- December 22nd -----
+alex.combs [8:39 PM]
+https://news.ycombinator.com/item?id=13232883
+
+
+----- December 23rd -----
+JP Freeley - DSI - NYC [11:25 PM]
+Quoted from the above ...
+
+apohn 1 day ago [-]
+
+Background: I currently lead a Data Science team at a big non-tech company. Previous to this I worked at a software company that had a Data Science team in their customer facing consulting group.
+I'm going to speak primarily about applied data science. This means a data scientist who is solving a business need by doing ad-hoc analysis or building a reusable solution (e.g a R+Shiny dashboard) to a business problems.
+Jobs: There are plenty of jobs out there, but you have to be careful. Many "Data Science" jobs are really BI, Business Analyst, or Sales Engineer types of jobs where some VP got it in their head that they need a Data Scientist. These jobs are great for people who are okay with Technology and Data Science being 10% of their job - and many people are like that. They don't care about engineering, coding, or tech and statistics beyond the minimum to do their jobs. But if you really want a job that involves solid tech and stats/ML skills you will be unsatisfied at these types of jobs.
+Right now there are plenty of hard business problems that people want to turn into Data Science problems because they think it'll give them a competitive edge or something to market and show off. This results in more data science job openings. However, they are not really data science problems. As somebody else said, people will eventually realize they are not getting the value they need with data scientists doing these types of jobs. Then they'll replace that person with an MBA with some DS coursework (e.g. MBA who can use KNIME or SAS Enterprise Miner) or eliminate the position.
+People: I interview people and I know people at other organizations who interview candidates for Data Science roles. MOOCs and many degree programs (including 2 year MS degrees) are pushing out people who have a very superficial overview of data science. Basically they teach them about every ML algorithm in the known universe and the functions to call them them in R/Python/SAS. The end result is a mediocre coder or non-coder who boils everything down to a confusion matrix or root mean squared error. But they cannot actually think through a business problem or see why a low error doesn't equal a good model (see http://www.tylervigen.com/spurious-correlations)
+Finding good people is hard and you have to be flexible to realize great people can come from different backgrounds.
+--AND--
+This thread is really depressing as someone currently going through a bootcamp. (dataquest) Is it more realistic to aspire for data engineering/analyst roles?
+ tylervigen.com
+15 Insane Things That Correlate With Each Other
+Why do these things correlate? These 15 correlations will blow your mind. (Is this headline sensationalist enough for you to click on it yet?) (40KB)
+
+(edited)
+
+
+----- December 24th -----
+winston [2:35 PM]
+that was a pretty pessimistic thread. my 2 cents: people aren’t actually talking about the market demand for data scientists, they’re arguing about what a data scientist is, and getting granular about the different kinds of roles and work scenarios in the data science space. so use that knowledge to help inform what to apply to and how to pitch yourself for different roles.
+
+alex.combs [2:40 PM]
+Lot of sound and fury that basically says the value is in solving business problems which shouldn't really be surprising
+
+winston [2:45 PM]
+where are the shakespeare emojis
+
+alex.combs [3:14 PM]
+Close enough
+
+winston [8:58 PM]
+hey all, here’s the list of R + Python packages that Ally Tubis (data director at Rodale) said she’d share:
+
+Pinned by JP Freeley - DSI - NYC
+Dec 26th at 12:31 AM Pinned by JP Freeley - DSI - NYC
+[8:59]
+R & Python Package List
+R Packages:
+To install:
+install.packages("mypackage")
+To use:
+library(mypackage) (you do not need to use namespacing in R, so you can call myfunction() directly)
+General Data Manipulation
+dplyr
+plyr
+magrittr
+reshape2
+stringr
+matrixStats (in particular for its weighted median function)
+Data Visualization
+ggplot2
+RColorBrewer
+I/O
+readr
+RJSONIO
+Forecasting
+forecast
+zoo
+Topic Models
+lda
+ldatuning
+LDAvis
+tm
+topicmodels
+NLP
+Decision Trees & Random Forests
+randomForest
+rpart
+
+Python Packages:
+To install:
+pip install mypackage (from Terminal or Command Prompt)
+
+To use (within Python/Jupyter Notebook) :
+import mypackage (lets you reference mypackage.myfunction() )
+also:
+import mypackage as mypkg (lets you reference mypkg.myfunction())
+and finally:
+from mypackage import myfunction (lets you use myfunction() without package referent/namespace)
+Dashboards
+amqp
+celery
+cryptography
+Django
+django-extensions
+Web Scraping
+beautifulsoup4
+API clients
+boto3
+google-api-python-client
+oauth2client
+General
+ipython
+jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-image
+scikit-learn
+scipy
+simplejson
+Virtual Environment
+virtualenv
+virtualenvwrapper
+
+http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/
+
+https://www.youtube.com/watch?v=Y1rVZAezExQ
+
+http://meetu.ps/e/Cj5NQ/xP1KF/d
+
+https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data
+
+https://www.youtube.com/watch?v=6xsvGYIxJok
+
+https://www.youtube.com/watch?v=maQ_KQOvcj4
+
+http://www.galvanize.com/blog/tattoos-are-forever-use-data-science-to-pick-the-right-artist/
+
+http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?ref=technology&_r=0
+
+http://www.fuse.tv/2013/07/famous-songs-sued-plagiarism
+
+https://www.youtube.com/watch?v=5pidokakU4I
+
+https://www.youtube.com/watch?v=MN23lFKfpck
+
+http://vemo.com/
+
+http://projectiv.herokuapp.com/
+
+https://www.etsy.com/listing/71739287/collection-of-10-distribution-plushies
+
+https://i.reddituploads.com/9cf2711854b84c0cb5f143f5456ad031?fit=max&h=1536&w=1536&s=7aa0269674cdd9c1170a1320c1997a61
+
+https://youtu.be/_rdINNHLYaQ
+
+https://www.quora.com/?digest_story=9689167

@@ -1,0 +1,319 @@
+Amer
+ones={0:"",1:"I",2:"II",3:"III",4:"IV",5:"V",6:"VI",7:"VII",8:"VIII",9:"IX"}
+tens={0:"",1:"X",2:"XX",3:"XXX",4:"XL",5:"L",6:"LX",7:"LXX",8:"LXXX",9:"XC"}
+hund={0:"",1:"C",2:"CC",3:"CCC",4:"CD",5:"D",6:"DC",7:"DCC",8:"DCCC",9:"CM"}
+thou={0:"",1:"M"}
+
+def to_roman(number):
+    one = number%10
+    ten = (number%100 - one)/10
+    hun = (number%1000 - (ten + one))/100
+    thousand = (number%10000 - (ten + one + hun))/1000
+    print thou[thousand] + hund[hun] + tens[ten] + ones[one]
+
+ones_r = {y:x for x,y in ones.iteritems()}
+tens_r = {y:x*10 for x,y in tens.iteritems()}
+hund_r = {y:x*100 for x,y in hund.iteritems()}
+thou_r = {y:x*1000 for x,y in thou.iteritems()}
+romans = dict(ones_r.items() + tens_r.items() + hund_r.items() + thou_r.items())
+
+def from_roman(number):
+    out = 0
+    prior = 0
+    for c in number[::-1]:
+        if prior > romans[c]:
+            out -= romans[c]
+            prior = romans[c]
+        else:
+            out += romans[c]
+            prior = romans[c]
+    print out
+
+to_roman(999)
+from_roman('CMXCIX')
+to_roman(79)
+from_roman('LXXIX')
+
+____________________________
+
+Thomas:
+ones={0:"",1:"I",2:"II",3:"III",4:"IV",5:"V",6:"VI",7:"VII",8:"VIII",9:"IX"}
+tens={0:"",1:"X",2:"XX",3:"XXX",4:"XL",5:"L",6:"LX",7:"LXX",8:"LXXX",9:"XC"}
+hund={0:"",1:"C",2:"CC",3:"CCC",4:"CD",5:"D",6:"DC",7:"DCC",8:"DCCC",9:"CM"}
+thou={0:"",1:"M"}
+all_romans={}
+
+def to_roman(number):
+    if number in range(1,1001):
+        one = number%10
+        ten = (number%100 - one)/10
+        hun = (number%1000 - (ten + one))/100
+        thousand = (number%10000 - (ten + one + hun))/1000
+        return str(thou[thousand] + hund[hun] + tens[ten] + ones[one])
+    else:
+        print "Invalid Number"
+
+for num in range(1,1001,1):
+    all_romans[to_roman(num)]=num
+
+def to_num(roman):
+    if roman in all_romans.keys():
+        return all_romans[roman]
+    else:
+        print "Invalid Roman"
+
+_____________________________
+
+Peida
+# n is a single digit
+rom_dict = {'o':["I", 'V', 'X'], 't':["X", 'L', 'C'], 'h':["C", 'D', 'M']}
+def conv_digit(n, oth):
+
+    n = int(n)
+
+    if n < 4:
+        return rom_dict[oth][0] * n
+
+    elif n == 4:
+        return rom_dict[oth][0] + rom_dict[oth][1]
+
+    elif n >= 5 and n <9:
+        return rom_dict[oth][1] + rom_dict[oth][0]*(n-5)
+
+    elif n == 9:
+        return rom_dict[oth][0] + rom_dict[oth][2]
+def get_rom_num(num):
+
+    try:
+
+        int(num)
+    except:
+        return "Need integers!"
+
+    huns = ''
+    tens = ''
+    ones = ''
+    if int(num) > 1000 or int(num) < 0:
+        return "Don't be funny!"
+    elif int(num) == 0:
+        return "Romans didn't have zeros!! Sad..."
+    elif len(num) == 4:
+        return "M"
+    elif len(num) == 3:
+        huns = conv_digit(num[0], 'h')
+        tens = conv_digit(num[1], 't')
+        ones = conv_digit(num[2], 'o')
+    elif len(num) == 2:
+        tens = conv_digit(num[0], 't')
+        ones = conv_digit(num[1], 'o')
+    elif len(num) == 1:
+        ones = conv_digit(num[0], 'o')
+    return huns+tens+ones
+
+num = raw_input("What is the number? ")
+print "Raw number is %s." % num
+print "Roman equivalent is", get_rom_num(num)
+____________________________
+
+Betsy
+from bs4 import BeautifulSoup
+
+# Scrape site with integer/numeral tables 1-1000
+url = 'http://www.knowtheromans.co.uk/Categories/SubCatagories/RomanNumerals/RomanNumerals1-1000/'
+results = []
+r = requests.get(url)
+page = r.content
+soup = BeautifulSoup(page, 'lxml')
+
+# Create dictionary
+# Numerals
+numeral_data = soup.findAll(class_ = "numeral")
+keys = [d.text for d in numeral_data]
+keys = [str(d) for d in keys]
+keys = [d.replace(" ","") for d in keys]
+# Numbers
+number_data = soup.findAll(class_ = "number")
+values = [d.text for d in number_data]
+values = [int(d) for d in values]
+# Zip
+dictionary = dict(zip(keys, values))
+
+# Function
+def from_roman():
+    print "Please enter a Roman numeral I-M:"
+    n = raw_input()
+    try:
+        return dictionary[n]
+    except:
+        return "Sorry, try again"
+
+from_roman()
+
+______________________
+Jocelyn
+positions = ['one', 'ten', 'hundred', 'thousand']
+symbols = {'one': ['I', 'V', 'X'], 'ten': ['X', 'L', 'C'], 'hundred': ['C', 'D', 'M'], 'thousand': ['M']}
+
+def to_roman(num):
+    try:
+        num = int(num)
+        if num > 1000 or num < 0:
+            return "Value out of range."
+        elif num == 0:
+            return ""
+        elif num == 1000:
+            return symbols['thousand'][0]
+        else:
+            num_list = list(str(num))
+            num_list = num_list[::-1]
+            sym_all = []
+            for i in range(len(num_list)):
+                symbol = symbols[positions[i]]
+                test = int(num_list[i])
+                if test < 4:
+                    sym = symbol[0] * test
+                elif test == 4:
+                    sym = ''.join(symbol)
+                elif test == 5:
+                    sym = symbol[1]
+                elif test < 9:
+                    sym = symbol[1] + symbol[0] * (test-5)
+                elif test == 9:
+                    sym = symbol[0]+symbol[2]
+                sym_all.insert(0,sym)
+            return ''.join(sym_all)
+
+    except:
+        return "Incorrect input format."
+
+roman = {}
+for i in range(1,1001):
+    roman[i] = to_roman(i)
+
+def from_roman(num):
+    try:
+        for k, v in roman.items():
+            if v == num:
+                return k
+            else:
+                return "Incorrect input format."
+    except:
+        return "Incorrect input format."
+
+__________________________
+Sara
+def int_to_roman(n):
+
+    answer=''
+    table=[['M',1000],['CM',900],['D',500],['CD',400],['C',100],['XC',90],['L',50],['XL',40],['X',10],['IX',9],['V',5],['IV',4],['I',1]]
+
+    for pair in table:
+
+        while n-pair[1]>=0:
+
+            n-=pair[1]
+            answer+=pair[0]
+
+    return answer
+
+n = int(raw_input("Enter number:"))
+
+if (n > 1) and ( n < 1001):
+    print int_to_roman(n)
+else:
+    print "Nice try, number out of range :)"
+
+_____________________________
+Maria
+
+import re
+pattern = '^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$'
+def int_to_roman (integer):
+  returnstring=''
+    table=[['M',1000],['CM',900],['D',500],['CD',400],['C',100],['XC',90],\
+           ['L',50],['XL',40],['X',10],['IX',9],['V',5],['IV',4],['I',1]]
+
+    for pair in table:
+        while integer-pair[1]>=0:
+
+            integer-=pair[1]
+            returnstring+=pair[0]
+
+    return returnstring
+def rom_to_int(string):
+    table=[['M',1000],['CM',900],['D',500],['CD',400],['C',100],['XC',90],['L',50],['XL',40],\
+           ['X',10],['IX',9],['V',5],['IV',4],['I',1]]
+    returnint=0
+    for pair in table:
+
+        continueyes=True
+        while continueyes:
+            if len(string)>=len(pair[0]):
+                if string[0:len(pair[0])]==pair[0]:
+                    returnint+=pair[1]
+                    string=string[len(pair[0]):]
+                else: continueyes=False
+            else: continueyes=False
+    return returnint
+
+
+    def number_to_roman ():
+    try:
+        number = int(input("Enter a number: "))
+
+        if number < 1 or number > 1000:
+            print "Number must between 1 and 1000"
+            number_to_roman ()
+        else:
+            roman = int_to_roman(number)
+            print roman
+    except :
+        print "Invalid Number"
+        number_to_roman ()
+
+def roman_to_number ():
+    try:
+        number = raw_input("Enter a Roman: ")
+        if re.search(pattern, number):
+            see_int = rom_to_int(number)
+            if see_int < 1 or see_int > 1000:
+                print "Roman Number must between I and M"
+                roman_to_number ()
+            else:
+                number2 = rom_to_int(number)
+                print number2
+        else:
+            print "Invalid Roman else"
+            roman_to_number ()
+    except :
+        print "Invalid Roman except"
+        roman_to_number ()
+
+
+__________________________________
+
+Kristen
+
+romans = ['M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I']
+integers = [1000, 900, 500, 600, 100, 90, 50, 40, 10, 9, 5, 4, 1]
+numbers_list = zip(integers,romans)
+
+def to_roman2(i):
+    solution = []
+    for integer, roman in numbers_list:
+        count = int(i / integer)
+        solution.append(roman * count)
+        i -= integer * count
+    return''.join(solution)
+
+def to_roman(i):
+    result = []
+    if i == 0:
+        print "Need number greater than 0"
+    elif i < 0:
+        i = -1*i
+        return to_roman2(i)
+    else:
+        return to_roman2(i)
+
+_______________________

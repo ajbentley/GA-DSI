@@ -1,0 +1,17 @@
+Michael
+
+deck2 = Deck()
+hand1 = Hand()
+hand2 = Hand()
+
+for i in range(5):
+    card = deck2.draw_card()
+    hand1.add_card(card)
+    card = deck2.draw_card()
+    hand2.add_card(card)
+
+print hand1
+print
+print hand2
+
+_____________________

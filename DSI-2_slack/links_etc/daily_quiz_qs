@@ -1,0 +1,165 @@
+
+1. How do you autocomplete a command in bash?
+2. What's the difference between a relative and an absolute path?
+3. Where can you find the student code of conduct?
+4. Name at least two Outcomes deliverables we require from you to graduate.
+5. Bonus: How many unique (unordered) pairs did we make in today's icebreaker?!
+
+
+1. What does it mean to be mutable? List one mutable data type and one immutable one
+2. How do you access the items in a list? Is that different from how you access them in a dictionary? What about a tuple?
+3. How many times does a for-loop loop?
+4. Write an example if-elif-else statement
+5. How do you specify the number of parameters a function takes?
+
+
+1. If your notebook freezes when running a cell, or otherwise bugs out, what might you have to restart?
+2. What's the first argument (value for the first parameter) for the open() function?
+3. Give an example of splitting a string on some regular delimiter.
+4. What are the two basic components of Python dictionaries?
+5. Why would you use a list comprehension?
+
+
+1. Is it more accurate to say that the mean, or the median, of a distribution is the "average"?
+2. What do you need to do before you can use NumPy functions in your code?
+3. What does 'reshaping' do in NumPy?
+4. Please name at least two NumPy dtypes and explain what they represent.
+
+
+1. Give a DataFrame with 20 rows and 5 columns, how would you slice to return a new DataFrame of 10 rows and 3 columns?
+2. How would you change the name of the columns in a DataFrame from 'alpha', 'beta', 'gama' to 'a', 'b', 'c'?
+3. What's the relation between a p-value and a null hypothesis?
+
+
+1. Name two differences between .iloc and .loc
+2.  Given a DataFrame, df, and two columns, 'temp' and ‘sunny_or_cloudy’, write a boolean index that will return only days that are greater than 80 and sunny (assume ‘temp’ is all daily temperatures and ‘sunny_or_cloudy’ is a series of one or the other)
+3. What is the difference between .applymap and .apply?
+
+
+1. What does the 'aggfunc' argument do in the pandas pivot table function?
+2. How do you specify a different aggregation function when creating a pandas pivot table?
+3. What's a hypothesis (unrelated to our class assignments) that you'd like to test?
+4. When is it appropriate to do p-hacking?
+
+
+1. What’s an inner join?
+2. What does .groupby() do in pandas?
+
+1. Why would you want to plot a model's predicted values against true values?
+2. What are the residuals of a linear regression model?
+3. What does a pairplot show you?
+
+
+1. What does R^2 describe?
+2. Define RMSE and MAE.
+3. Which is the better loss function: MAE or RMSE?
+
+1. For the pandas Series, a = pd.Series([1,2,3,4]) write an apply with a lambda to get the cube of each
+2. What is the difference between cross_val_score and cross_val_predict?
+3. As alpha increases what happens to the size of the beta coefficients?
+4. Does L1 or L2 lead to sparsity?
+
+1. What happens as k increases to all samples?
+2. What is the odds ratio?
+3. How do you find the change in odds using the coefficients?
+
+1. How do you select a class in css? A div?
+2. When would you use Selenium + PhantomJS rather than the requests library?
+3. What are parent and child nodes?
+
+
+1. What's happening when you connect to a remote database from your terminal? What does it enable you to do?
+2. When do you use the HAVING operation in SQL?
+"3. Given the following tables:
+Installs table – one record per user
+Fields: install_date, user_id
+
+Session table – one record per user_id per date on which they’ve registered a session
+Fields: date, user_id, session_count
+
+Purchase table – one record per user_id per purchase
+Fields: date, user_id, purchase_id, purchase_amt
+
+Write SQL to answer the following:
+i) How many installs have there been in total? By date?
+ii) Which dates have seen more than $1000 in purchases?"
+
+Q1: What is bagging?
+Q2: What is the reason to average multiple base classifiers?
+Q3: What is a deterministic model?
+
+
+1. How does boosting differ from bagging?
+2. Name two boosting techniques. How do they differ?
+3. How do extra trees differ from random forests?
+
+1. Suggest a specific use case for unsupervised machine learning via clustering
+2. What is the 'k' in k means? How do you choose it?
+3. What is the bag-of-words approach? Is it sufficient?
+4. What does TF-IDF describe?
+
+and for the 5th question, please say which, if any, of today’s learning objectives you believe you need to review:
+- Format and preprocess data for clustering
+- Perform a K-Means clustering analysis
+- Evaluate clusters for fit
+- Extract features from free-form text using ScikitLearn
+- Identify Parts of Speech using NLTK
+- Remove stop words
+- Describe how TFIDF works
+
+Q1: What does it mean that the labels are permuted in k-means?
+Q2: Name the procedure we used to find the optimal k in k-means
+Q3: What is an eigenvalue?
+
+
+q1: What is the difference between single and complete linkages?
+q2: Which model is deterministic: hierarchical clustering or k-means?
+q3: how do you determine the number of clusters with hierarchical clustering?
+
+
+1. Is the Naive Bayes classifier model an unsupervised or supervised ML algorithm? Why?
+2. Why is the Naive Bayes classifier "naive"?
+3. When would you use regular expressions?
+4. Write a regex to find every four-letter word in a text string.
+
+
+1. What are classes, in Python?
+2. What is the first parameter for any class method?
+3. What does the kernel trick do?
+
+1. What is a visual bag of words?
+2. What is cosine similarity?
+3. Imagine you have a function that squares an input. Write a unit test that asserts it has the correct output for the number 3, and raises the correct error for the input 'three'.
+4. Why did my War() class disadvantage player 1?
+
+
+1. What's your personal study plan?
+2. What's a helpful acronym for identifying ways to optimize your code?
+3. If I asked you to guess whether running some unindentified algorithm would crash your kernel, what two questions might you ask me?
+4. What does the -i flag do in in the `ssh` command?
+5. What can you do with S3?
+
+
+1. If you don't have one yet, start implementing and iterating!
+2. Possible answer: Bottlenecks, Unnecessary work and Duplicated work (BUD)
+3. Possible answer: what's the runtime complexity (Big O analysis) and what's the size of the input(s)?
+4. Specifies the file containing your private key
+5. (h/t Kristen): "Store stuff as buckets of objects in cloud "
+
+
+1. What's the bias-variance tradeoff?
+2. Is linear regression high bias or low bias? Why?
+3. What's the difference between content-based and collaborative filtering?
+4. When could content-based filtering be the better approach?
+
+
+1. Are decision trees high bias or low bias? Why?
+2. What is an example of bias in a sample of data?
+3. What is the relationship between Spark, Hadoop and HDFS?
+4. What can you use to run Spark operations via Python?
+5. Name 2-3 typical use cases for Spark.
+
+
+1. What does `.resample()` do for time-indexed Pandas dataframes?
+2. What is autocorrelation? What is the lag?
+3. What are the components of time series data? Please explain them.

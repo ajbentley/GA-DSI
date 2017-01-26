@@ -1,0 +1,19 @@
+https://help.github.com/articles/generating-an-ssh-key/
+
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+http://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-git-repo
+
+https://help.github.com/articles/error-permission-denied-publickey/
+
+reset git commits .. “git reset HEAD~"
+
+http://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories
+
+http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git
+
+"There are only three certainties in your life as a data scientist: death, taxes, and an inevitable git clusterfuck. You will find yourself typing git reset --hard and hitting enter while sighing at least once. That's OK.
+
+https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3
+
+http://learngitbranching.js.org/
